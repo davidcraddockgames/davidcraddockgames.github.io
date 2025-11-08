@@ -11,6 +11,4 @@ hugo
 git add -f .
 git commit -m "Latest hugo publish" || echo ''
 git push origin main
-cd ~/.hqconfig/swag-deploy/hugo-davidcraddockgames-blog
-./deploy-davidcraddockgames-hugo.sh
 
