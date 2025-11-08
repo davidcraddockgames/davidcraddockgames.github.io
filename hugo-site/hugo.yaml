@@ -32,18 +32,15 @@ languages:
         - name: Gaming Setup
           url: Setup/
           weight: 11
-        - name: Home Arcade
-          url: Arcade/
-          weight: 12
         - name: PC + Emulation Gamelist
-          url: https://home.davidcraddock.net/PlayNiteHTMLExport/index.html
-          weight: 13
+          url: https://gamesdb.launchbox-app.com/collection/games?n=wordswords
+          weight: 12
         - name: Consoles Gamelist
           url: https://home.davidcraddock.net/#physicalconsolegames
-          weight: 14
+          weight: 13
         - name: More
           url: https://davidcraddock.net
-          weight: 15
+          weight: 14
 
 outputs:
   home:
