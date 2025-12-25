@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DavidCraddock.Games</title>
+    <link>https://davidcraddockgames.github.io/</link>
+    <description>Recent content on DavidCraddock.Games</description>
+    <image>
+      <title>DavidCraddock.Games</title>
+      <url>https://davidcraddockgames.github.io/mugshot.png</url>
+      <link>https://davidcraddockgames.github.io/mugshot.png</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <copyright>David Paul Craddock</copyright>
+    <lastBuildDate>Wed, 17 Dec 2025 15:40:14 +0000</lastBuildDate>
+    <atom:link href="https://davidcraddockgames.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Negative Gamers Annoy Me</title>
+      <link>https://davidcraddockgames.github.io/negative-gamers-annoy-me/</link>
+      <pubDate>Wed, 17 Dec 2025 15:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/negative-gamers-annoy-me</guid> 
+      <description>&lt;p&gt;Perhaps I am unusual, but I don&amp;rsquo;t get angry generally about new games that I buy. If I don&amp;rsquo;t like them, I don&amp;rsquo;t just play them. I have tons of games that I don&amp;rsquo;t like. For me, it&amp;rsquo;s the same as buying a book. I do not feel &amp;lsquo;ripped off&amp;rsquo; if I do not enjoy the book, I realise that I am paying for the development of the game and the hundreds (often thousands) of man hours that have gone into playing it. I realise that all art is subjective, and everyone has different &amp;rsquo;takes&amp;rsquo; on things - so I don&amp;rsquo;t try and tell other people what they might or might not enjoy, I just report what I enjoy (and I usually only write reviews for games I really like).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gaming Collection Philosophy</title>
+      <link>https://davidcraddockgames.github.io/gaming-collection-philosophy/</link>
+      <pubDate>Mon, 23 Jun 2025 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=5</guid> 
+      <description>&lt;p&gt;As I&amp;rsquo;ve accumalated physical games, physical gaming consoles, controllers and computers over the years, it&amp;rsquo;s become more and more important to have some &amp;lsquo;rules&amp;rsquo; of what I collect, how I collect, and how I play the games I collect.&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;p&gt;With a few exceptions for games which are some of my favourite games of all time, I don&amp;rsquo;t want to buy physical copies of any games. I want to keep as much digital as possible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Ultimate Yet Affordable Neo Geo Setup</title>
+      <link>https://davidcraddockgames.github.io/neo-geo-setup/</link>
+      <pubDate>Fri, 20 Jun 2025 03:15:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=5666</guid> 
+      <description>&lt;p&gt;I want a proper Neo Geo console, but they are ridiculously expensive, even if you buy one and mod it, and don&amp;rsquo;t pay for the cartridges.&lt;/p&gt;
+&lt;p&gt;So therefore I have looked at the best emulation possibilities.&lt;/p&gt;
+&lt;p&gt;After having experimented with various different ways of playing Neo Geo games, including emulation on PC, playing them on the Evercade, mobile emulation on a Ambernic device, I have found my favourite way to play Neo Geo games that I can afford.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2 player Mad Dog Mccree with Sinden Light Gun on PC</title>
+      <link>https://davidcraddockgames.github.io/mad-dog-mcree-sinden-pc/</link>
+      <pubDate>Tue, 03 Jun 2025 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=7</guid> 
+      <description>&lt;p&gt;This is how I got Mad Dog Mccree, the 1990 American Laser Game, working with two Sinden light guns.&lt;/p&gt;
+&lt;h2 id=&#34;software-required&#34;&gt;Software Required&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mad Dog Mcree 2 player HD enhanced ROM &lt;a href=&#34;https://archive.org/details/hypseus_singe_maddog-hd_2p&#34;&gt;https://archive.org/details/hypseus_singe_maddog-hd_2p&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DirtBagXon&amp;rsquo;s version of hypseus-singe American Laser Game compatible emulator &lt;a href=&#34;https://github.com/DirtBagXon/hypseus-singe&#34;&gt;https://github.com/DirtBagXon/hypseus-singe&lt;/a&gt; - you will specifically need to download the portable version version &amp;lsquo;2.11.3&amp;rsquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gojidan&amp;rsquo;s bezels for the American Laser Games - &lt;a href=&#34;https://github.com/gojidan/hypseus-singe-bezels&#34;&gt;https://github.com/gojidan/hypseus-singe-bezels&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The standard 2.07 beta Sinden light gun utility - I recommend you keep a separate copy dedicated to hypseus-singe games and their config&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2 player Time Crisis 2 with Sinden Light Gun on PCSX2</title>
+      <link>https://davidcraddockgames.github.io/time-crisis-2-1-player-sinden/</link>
+      <pubDate>Tue, 03 Jun 2025 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=6</guid> 
+      <description>&lt;p&gt;21/6/25 - IMPORTANT NOTE: The method used in this guide does not currently offer the optimal experience for 2 players - there are problems with the 2 player dual cursor functionality! I therefore do not recommend this guide until I find time to research other methods and update it!&lt;/p&gt;
+&lt;p&gt;This is a work in progress guide that I&amp;rsquo;m updating to be the &amp;lsquo;optimal&amp;rsquo; way of playing Time Crisis 2 on PC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Epoch Light Gun Game Review</title>
+      <link>https://davidcraddockgames.github.io/epoch-light-gun-game-review/</link>
+      <pubDate>Sun, 06 Apr 2025 16:57:14 +0000</pubDate>
+       <guid isPermaLink="false">https://davidcraddockgames.github.io/epoch-light-gun-game-review/</guid> 
+      <description>&lt;p&gt;I setup and played the &lt;a href=&#34;https://store.steampowered.com/app/270510/EPOCH/&#34;&gt;&amp;lsquo;Epoch&amp;rsquo; rail-shooter game available on steam&lt;/a&gt;, with my Sinden light gun setup.&lt;/p&gt;
+&lt;h2 id=&#34;negatives&#34;&gt;Negatives&lt;/h2&gt;
+&lt;p&gt;I have to say, I didn&amp;rsquo;t like the mechanics of the game. The gameplay seemed pretty boring, and instead of one-shot-one-kill, you have to constantly &amp;lsquo;wear down&amp;rsquo; enemies through shooting at them, and moving out of their way.&lt;/p&gt;
+&lt;p&gt;This doesn&amp;rsquo;t really work very well on the Sinden light gun, as, although there are controls for moving - 4 buttons and a d-pad - on the gun, constantly having to switch to them and away from the &amp;lsquo;aim and fire&amp;rsquo; action does not work very well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Batsugun</title>
+      <link>https://davidcraddockgames.github.io/batsugun/</link>
+      <pubDate>Sat, 14 Dec 2024 03:15:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=5630</guid> 
+      <description>&lt;p&gt;I played through the version of [https://store.steampowered.com/app/2023000/Batsugun/](Batsugun on Steam) on the arcade setup.&lt;/p&gt;
+&lt;p&gt;It is part of the [Toaplan Arcade Shoot ‘Em Up Collection Vol.4](Toaplan Arcade Shoot &amp;lsquo;Em Up Collection Vol.4).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gunstar Heroes Review</title>
+      <link>https://davidcraddockgames.github.io/gunstar-heroes/</link>
+      <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/gunstar-heroes-pc</guid> 
+      <description>&lt;p&gt;For years I have been stuck with a working megadrive with a Gunstar Heroes cartridge that works UP UNTIL A POINT, and then crashes.&lt;/p&gt;
+&lt;p&gt;If it were fully working, this Gunstar Heroes megadrive cartridge would be worth £250 at least at Ebay current prices!&lt;/p&gt;
+&lt;p&gt;But more annoyingly, I have not been able to play the game properly.&lt;/p&gt;
+&lt;p&gt;When Sega decided to discontinue the Sega Megadrive Collection on Steam, they offered a low price to buy all of the games, one of which was - you guessed it, Gunstar Heroes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Gaming Blog</title>
+      <link>https://davidcraddockgames.github.io/new-gaming-blog/</link>
+      <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=1</guid> 
+      <description>&lt;p&gt;This is my new gaming blog, where I will write reviews of games I&amp;rsquo;ve played, game accessories I&amp;rsquo;ve bought, and anything else PC or console gaming-related that I can think of.&lt;/p&gt;
+&lt;p&gt;It is using the same setup as my main &lt;a href=&#34;https://davidcraddock.net&#34;&gt;https://davidcraddock.net&lt;/a&gt; blog - as in - it&amp;rsquo;s self-hosted, and uses the Hugo Go-based static blogging engine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PC and Console Gaming Setup</title>
+      <link>https://davidcraddockgames.github.io/Setup/</link>
+      <pubDate>Mon, 26 Jun 2023 19:52:05 +0000</pubDate>
+       <guid isPermaLink="false">https://davidcraddock.games/Setup</guid> 
+      <description>&lt;h3 id=&#34;my-main-workmediagaming-pc-studiolocal&#34;&gt;My Main Work/Media/Gaming PC &amp;lsquo;studio.local&amp;rsquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryzen 7 9800X 3D CPU&lt;/li&gt;
+&lt;li&gt;GIGABYTE B850 AORUS ELITE WIFI7 Motherboard with 2.5Gbits/sec internet and on-board Wifi7&lt;/li&gt;
+&lt;li&gt;Be quiet! Straight Power 12 1000W power supply, ATX 3.0, 80 PLUS Platinum&lt;/li&gt;
+&lt;li&gt;Cooler Master MasterAir MA824 Stealth CPU Air Cooler&lt;/li&gt;
+&lt;li&gt;Samsung 990 PRO NVMe M.2 SSD, 4 TB, PCIe 4.0, 7,450 MB/s read, 6,900 MB/s write, Internal SSD&lt;/li&gt;
+&lt;li&gt;Fractal Design North XL Charcoal Black Mesh&lt;/li&gt;
+&lt;li&gt;G.Skill Trident Z5 Neo EXPO RGB 64GB (2x32GB) DDR5 PC5-48000C30 6000MHz&lt;/li&gt;
+&lt;li&gt;ASUS GeForce RTX 4070 12G DUAL EVO OC Gaming Graphics Card - 2550MHz Boost Clock, GDDR6X, PCIe Gen 4, DLSS 3, HDMI 2.1a, 3 x DisplayPort 1.4a (Supports 4K &amp;amp; 8K HDR) * 12th Gen i7 CPU&lt;/li&gt;
+&lt;li&gt;1x 1TB SSD that I use as a system drive for legacy reasons&lt;/li&gt;
+&lt;li&gt;10Gb/sec fibre optic network card&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;keyboard-and-mouse&#34;&gt;Keyboard and Mouse&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Topre Realforce TKL UK model&lt;/li&gt;
+&lt;li&gt;8BitDo Retro 18 Mechanical Numpad, Supports Calculator Mode, Bluetooth/2.4G/Wired Numpad for Windows and Android - C64 Edition&lt;/li&gt;
+&lt;li&gt;LOFREE TOUCH PBT Wireless Mouse with USB receiver, Bluetooth, Wired Connection, Rechargeable, 4000 DPI with OLED Screen Compatible with glass surface for Mac Windows PC Notebook/Block Retro White Gray&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;monitor-and-other-accessories&#34;&gt;Monitor and Other accessories&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;ASUS ROG Swift OLED PG32UCDM 4K gaming monitor ― 32-inch 4K QD-OLED panel, 240Hz, 0.03ms (GTG), G-SYNC compatible, custom heatsink, graphene film, uniform brightness, 99% DCI-P3, True 10-bit, 90 W Type-C&lt;/li&gt;
+&lt;li&gt;29 inch &amp;lsquo;Tate Mode&amp;rsquo; portrait mode LCD VA 144hz refresh gaming monitor with Gsync&lt;/li&gt;
+&lt;li&gt;2x Genelec 8020 DPM speakers&lt;/li&gt;
+&lt;li&gt;Logi USB headset with noise cancelling microphone&lt;/li&gt;
+&lt;li&gt;Logitech Key light for web cam calls&lt;/li&gt;
+&lt;li&gt;LogiTech C920 web cam&lt;/li&gt;
+&lt;li&gt;R0de Procaster mic with boom, roll cage and muffler&lt;/li&gt;
+&lt;li&gt;Network cabinet with rack-mounted Mikrotik fibreoptic 10Gb/sec router, switch and a Presonus 1824i USB-c sound interface that is connected to the PC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ergonomic-equipment&#34;&gt;Ergonomic Equipment&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Flexispot E7Pro Motorised Standing Desk&lt;/li&gt;
+&lt;li&gt;Flexispot BS14 ergonomic chair with headrest&lt;/li&gt;
+&lt;li&gt;Flexispot standing desk mat&lt;/li&gt;
+&lt;li&gt;Wooden rocker balance board&lt;/li&gt;
+&lt;li&gt;360 style balance board&lt;/li&gt;
+&lt;li&gt;Fenge Dual Monitor Stand&lt;/li&gt;
+&lt;li&gt;FIFINE Microphone Arm Stand, Boom Arm Stand with Desk Mount Clamp&lt;/li&gt;
+&lt;li&gt;Quntis Monitor Light bar with RGB Backlight&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;my-gaming-laptop-legionlocal&#34;&gt;My Gaming Laptop &amp;rsquo;legion.local&amp;rsquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lenovo Legion 5-15IAH 2022&lt;/li&gt;
+&lt;li&gt;i7 12th Gen&lt;/li&gt;
+&lt;li&gt;64GB DDR5 RAM&lt;/li&gt;
+&lt;li&gt;2x 2TB NVME M.2 4th Gen SSDs&lt;/li&gt;
+&lt;li&gt;Nvidia Laptop 3070TI&lt;/li&gt;
+&lt;li&gt;Cooling Gaming Laptop Pad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gaming-setup&#34;&gt;Gaming Setup&lt;/h3&gt;
+&lt;p&gt;I share this setup between the Media PC and the Gaming Laptop.
+I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch between the two.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Home Retro Arcade Setup</title>
+      <link>https://davidcraddockgames.github.io/Arcade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+       <guid isPermaLink="false">http://davidcraddock.games/Arcade</guid> 
+      <description>&lt;p&gt;&lt;img src=&#34;https://davidcraddockgames.github.io/Arcade/lightguns.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://davidcraddockgames.github.io/Arcade/4.JPG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always wanted an arcade machine in my home. But I could never really afford one, in terms of time and space. Recently I thought to myself, &amp;ldquo;I&amp;rsquo;m not getting any younger&amp;rdquo;. So I built an arcade setup mostly just using the things I already had in the home.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://davidcraddockgames.github.io/Arcade/1.JPG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;games&#34;&gt;Games&lt;/h2&gt;
+&lt;p&gt;The ROMs I have are all stored on my file server upstairs. I can get around a 3gbits/sec connection via my 10gbits/sec home network, so there is no performance &amp;lsquo;hit&amp;rsquo; in streaming them off the network drive - it has similar speed and latency to a physical drive. Which is handy, because my ROM collection is way too big for the storage on my gaming PC.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
