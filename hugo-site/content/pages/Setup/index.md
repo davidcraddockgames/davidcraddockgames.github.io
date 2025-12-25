@@ -72,11 +72,10 @@ I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch betw
 ### Gaming PC Software
 
 * Launchbox - this brings all my third party launchers together and collates metadata, preview videos and reviews for games I own.
-* Various open source emulators - these plug into Playnite and let me play many different console games on my PC.
+* RetroArch & various open source emulators - these plug into Launchbox and let me play many different console games on my PC.
 * Hue Sync - this allows me to sync my Hue entertainment area lights with the colours on the screen, while playing games.
 * NexusMods and Vortex app - I have a lifetime membership of NexusMods, and this allows me to download, install and configure hundreds of mods for many games such as Cyberpunk 2077 and Skyrim, at high speeds.
-* Special K - Allows me to tweak some games for better running, including retrofitting HDR to games that otherwise wouldn't have it.
-* Razer Synapse - These allow me to create custom control profiles for some of the games I frequently play.
+* Razer Synapse - These allow me to create custom control profiles for the Razer hardware for some of the games I frequently play.
 * Action! - Gameplay Recording and Streaming (on Steam) - for recording PC gaming
 * PCMark 10 - for benchmarking hardware upgrades
 
@@ -169,7 +168,6 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * **Microsoft XBox Original** with 2x Duke controllers
 * **SNK Neo Geo International Mini** with 2x official controllers, and mini HDMI to HDMI cable for monitor output (audio output via HDMI)
 * **Nintendo NES Mini** with 2x controllers and extension leads
-* **Playstation Mini** with 2x controllers
 * **SNES Mini** with 1x controller
 * **Sony Playstation Mini** with 2x official controllers
 * **Evercade VS-R Console** with 2x official controllers
