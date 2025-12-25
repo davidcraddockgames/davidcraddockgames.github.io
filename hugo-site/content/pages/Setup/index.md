@@ -21,13 +21,13 @@ url: /Setup/
 
 #### Keyboard and Mouse
 
-- 8Bitdo Retro Mechanical Keyboard, Bluetooth/2.4G/USB-C Hot Swappable Gaming Keyboard with 87 Keys, Dual Super Buttons and Super Stick for Windows and Android - ISO UK Layout - C64 Edition
+- Topre Realforce TKL UK model
 - 8BitDo Retro 18 Mechanical Numpad, Supports Calculator Mode, Bluetooth/2.4G/Wired Numpad for Windows and Android - C64 Edition
 - LOFREE TOUCH PBT Wireless Mouse with USB receiver, Bluetooth, Wired Connection, Rechargeable, 4000 DPI with OLED Screen Compatible with glass surface for Mac Windows PC Notebook/Block Retro White Gray
 
 #### Monitor and Other accessories
 
-- ASUS ROG Swift OLED PG32UCDM gaming monitor ― 32-inch 4K QD-OLED panel, 240Hz, 0.03ms (GTG), G-SYNC compatible, custom heatsink, graphene film, uniform brightness, 99% DCI-P3, True 10-bit, 90 W Type-C
+- ASUS ROG Swift OLED PG32UCDM 4K gaming monitor ― 32-inch 4K QD-OLED panel, 240Hz, 0.03ms (GTG), G-SYNC compatible, custom heatsink, graphene film, uniform brightness, 99% DCI-P3, True 10-bit, 90 W Type-C
 - 29 inch 'Tate Mode' portrait mode LCD VA 144hz refresh gaming monitor with Gsync
 - 2x Genelec 8020 DPM speakers
 - Logi USB headset with noise cancelling microphone
@@ -38,43 +38,14 @@ url: /Setup/
 
 #### Ergonomic Equipment
 
-- Flexispot E7Pro Motorised Desk with 2x ergonomic monitor stand arms
+- Flexispot E7Pro Motorised Standing Desk
 - Flexispot BS14 ergonomic chair with headrest
 - Flexispot standing desk mat
 - Wooden rocker balance board
 - 360 style balance board
-- Fenge Dual Monitor Stand, Monitor Stands Riser for 2 monitors, 42.5 Inch Wood Desk Shelf with Storage Organizer and Cable Management for Office Desk Accessories Black
-- FIFINE Microphone Arm Stand, Boom Arm Stand with Desk Mount Clamp, Screw Adapter, Cable Management, Suspension Scissor Mic Stand for Boom Stick Microphone, for Podcast Streaming Gaming Studio-BM88 (for R0de mic)
-- Quntis Monitor Light bar with RGB Backlight, 40cm Computer Monitor Lamp with Dimmer and Color Temperature, LED Touch Control Gaming Screen Light No Screen Glare and Eye Protection for Home Office
-
-
-### Media PC Software
-
-* dbPowerAmp CD Ripper (lifetime licence)
-* MakeMKV for ripping CDs and Blu-rays (lifetime licence)
-* AnyDVD HD (lifetime licence) for ripping DVDs and Blu-rays
-* 4K Video Downloader (lifetime licence) for ripping videos from Youtube etc
-* Imagemagik for creating GIFs and command line batch graphics manipulation and conversion
-* FFMPEG for command line batch video manipulation
-* Movavai Video Editor 2022
-* Sony Vegas 19 Video Editor for more complex video edits
-* Aseprite Pixel Graphics and Animated Gif Editor
-* Sonarworks SoundID Reference - speaker and headphones environmental EQ software.
-* Audacity Audio Editor for editing and mastering mixes uploaded to Mixcloud
-* Hye Sync (official app) for syncing Phillips Hue lights to movies, games, etc
-* PlexAmp and Plex for streaming audio and video from my Plex server at highest quality
-* VLC for video playback
-* HandBrake for transcoding and compressing video
-* OBS Studio (open source)
-* Resolume Avenue 7 for visuals for my DJ stream
-* Resolume Wire for creating custom beat-synced visualisations for my stream
-* Paint.NET open source graphics program for simple crops and photo editing
-* Aiseesoft Blu-ray Player (lifetime licence) for playing unripped Blu-rays on my PC
-* Bome MIDI Translator Classic (lifetime licence) for translating MIDI events to key presses - useful for complex streaming setups
-* Various free emulation tools for decrypting/anti-DRMing copies of video game console optical disks and getting them in a playable state for use in an emulator
-* Reaper DAW (shareware licence)
-* Ableton Live 11 Suite DAW
-* Filebot for renaming and organising media files
+- Fenge Dual Monitor Stand
+- FIFINE Microphone Arm Stand, Boom Arm Stand with Desk Mount Clamp
+- Quntis Monitor Light bar with RGB Backlight
 
 ### My Gaming Laptop 'legion.local'
 
@@ -90,21 +61,13 @@ url: /Setup/
 I share this setup between the Media PC and the Gaming Laptop.
 I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch between the two.
 
-* Herman Miller Aeron Chair
-* IKEA MARKKUS Chair (guest chair)
 * Phillips Hue Entertainment centre with 5 light sources and Hue Sync
 * Razer Tarturus Chroma Pro Gaming Keypad
 * Presonus 1824c Studio Sound Interface
 * Beyerdynamic DT 880 Pro Black Edition Headphones
-* Avantree Oasis Plus Certified aptX HD Bluetooth 5.0 Transmitter and Reciever
-* Sony WH-1000XM3 Wireless Noise Cancelling Headphones
 * Genelec 8020D Music Studio Speakers
 * Presonus Eris Studio Speaker acting as a subwoofer
-* Meta Quest 2 VR headset + controllers
 * ClonerAlliance Flint 4KP Plus video capture card with USB-c 3.0L
-* Blackout curtains
-* 27" 1440p TN LCD monitor with Gsync and 144hz refresh (second monitor) (used in portrait mode for schmups)
-* 40" 1080p IPS LCD Sony wall-mounted TV (fourth monitor)
 
 ### Gaming PC Software
 
@@ -124,7 +87,6 @@ I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch betw
 These all work with the gaming PC and laptop and connect via USB:
 
 * XBox Elite V2 White Controller
-* XBox Elite V1 Black Controller
 * Buffalo SNES USB Gamepad
 * XBox Duke Controller with USB adaptor
 * 1x PS1 Controller with USB adaptor
@@ -140,13 +102,20 @@ These all work with the gaming PC and laptop and connect via USB:
 * 2x 8BitDo Pro 2 Bluetooth controllers for the Playstation 2 and other platforms, with 2x 8BitDo PS/PS2 adaptors.
 * HORI Pacman style Switch Joycon replacement controller.
 
+#### VR Hardware
+
+* Meta Quest 2 VR headset + 2x controllers
+
 #### Steering Wheel and Pedals
 
 * HORI Racing Wheel Overdrive for XBox One and PC (with pedals)
 
-#### Retro Digital Joystick
+#### Retro Digital Joysticks
 
-* Speedlink SL-650212-BKRD Competition PRO Joystick - Anniversary Edition
+* Monster Joysticks 9-Pin Amiga Joystick to USB Adapter V2
+* Zip Stick Original Amiga Joystick with Amiga port
+* Speedlink SL-650212-BKRD Competition PRO Joystick - USB Anniversary Edition
+* 'The Scorpion' Retro gaming joystick with Amiga port
 
 #### HOTAS
 
@@ -186,6 +155,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * **Super Nintendo** with 2x official controllers and NTSC and J-NTSC cartridge converter and Super Everdrive X5 with ALL ever released SNES games on a MicroSD card.
 * **Sega Megadrive II (region unlocked)** with 2x official 3 button controllers, 2x official 6 button controllers and Master System cartridge converter, and an Mega Everdrive x5 cart with ALL released Megadrive/Genesis games available.
 * **Fat Sony PS2** with 2x official PS2 controllers, and 1 x official PS1 controller, and 2x Guitar Hero PS2 Controllers. I also have a 6TB drive in it with ALL released PS2 NTSC and PAL English games available.
+* **Nintendo 64** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak, and 64 Everdrive cart with ALL released N64 games accessible on a MicroSD card.
 * **Sony PS3** with 1x official PS3 controller
 * **Sony PS4** with 2x official PS4 controllers
 * **Nintendo Gamecube** with 2x official Gamecube controllers
@@ -195,10 +165,11 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * **Nintendo Wii (Gamecube compatible version)** with 2x Wiimote Motion controller and official balance board
 * **Nintendo Wii U** with CFW Aroma installed and 1x Wii U Gamepad and 1x Wii U Pro Controller
 * **Nintendo Switch Unpatched V1** with CFW installed, 2x Joycons, Dock and 2x Switch Pro Controllers
-* **Nintendo 64** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak, and 64 Everdrive cart with ALL released N64 games accessible on a MicroSD card.
 * **Microsoft XBox Original** with 2x Duke controllers
-* **SNK Mini Neo Geo International** with 2x official controllers, and mini HDMI to HDMI cable for monitor output (audio output via HDMI)
+* **SNK Neo Geo International Mini** with 2x official controllers, and mini HDMI to HDMI cable for monitor output (audio output via HDMI)
 * **Nintendo NES Mini** with 2x controllers and extension leads
+* **Playstation Mini** with 2x controllers
+* **SNES Mini** with 1x controller
 * **Sony Playstation Mini** with 2x official controllers
 * **Evercade VS-R Console** with 2x official controllers
 
@@ -212,131 +183,34 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * **Ambernic RG35XXSP** handheld emulation device with MuOS firmware running RetroArch with a full set of Neo Geo, SNES, Genesis, Game Gear, Gameboy, Gameboy Advance ROMs.
 * **Evercade Super Pocket Neo Geo Edition Handheld Console**
 
-### Audio and Video Chain Setups
+### Media PC Software
 
-#### Video Chain
+* dbPowerAmp CD Ripper (lifetime licence)
+* MakeMKV for ripping CDs and Blu-rays (lifetime licence)
+* AnyDVD HD (lifetime licence) for ripping DVDs and Blu-rays
+* 4K Video Downloader (lifetime licence) for ripping videos from Youtube etc
+* Imagemagik for creating GIFs and command line batch graphics manipulation and conversion
+* FFMPEG for command line batch video manipulation
+* Movavai Video Editor 2022
+* Sony Vegas 19 Video Editor for more complex video edits
+* Aseprite Pixel Graphics and Animated Gif Editor
+* Sonarworks SoundID Reference - speaker and headphones environmental EQ software.
+* Audacity Audio Editor for editing and mastering mixes uploaded to Mixcloud
+* Hye Sync (official app) for syncing Phillips Hue lights to movies, games, etc
+* PlexAmp and Plex for streaming audio and video from my Plex server at highest quality
+* VLC for video playback
+* HandBrake for transcoding and compressing video
+* OBS Studio (open source)
+* Resolume Avenue 7 for visuals for my DJ stream
+* Resolume Wire for creating custom beat-synced visualisations for my stream
+* Paint.NET open source graphics program for simple crops and photo editing
+* Aiseesoft Blu-ray Player (lifetime licence) for playing unripped Blu-rays on my PC
+* Bome MIDI Translator Classic (lifetime licence) for translating MIDI events to key presses - useful for complex streaming setups
+* Various free emulation tools for decrypting/anti-DRMing copies of video game console optical disks and getting them in a playable state for use in an emulator
+* Reaper DAW (shareware licence)
+* Ableton Live 11 Suite DAW
+* Filebot for renaming and organising media files
 
-So, my video setup, depending on gaming needs, is:
-
-1.
-```
-All retro consoles -> OSSC -> MClassic -> 4K capture card * -> PASSTHROUGH -> Monitor (up to 4K)
-                                                          \ -> RECORD -> OBS Studio stream/record (up to 1080p)
-```
-2.
-```
-All modern (HDMI) consoles -> MClassic -> 4K capture card * -> PASSTHROUGH -> Monitor (up to 4K)
-                                                          \ -> RECORD -> OBS Studio stream/record (up to 1080p)
-```
-3.
-```
-Gaming PC -> Flint 4KP capture card * -> PASSTHROUGH -> Monitor (up to 4K)
-                                       \ -> RECORD -> OBS Studio stream/record (up to 1080p)
-```
-#### Audio Chain
-
-All cables are balanced wherever possible, and go via a balanced patch-bay.
-
-##### INPUT
-
-1.
-```
-All retro consoles -> OSSC -> 4K capture card -> PASSTHROUGH -> Monitor -> speaker stereo audio jack -> Balanced patch-bay -> Presonus Studio USB-C 1824 2x line inputs
-```
-
-2.
-```
-All modern (HDMI) consoles -> 4K capture card -> PASSTHROUGH -> Monitor -> speaker stereo audio jack -> Balanced patch-bay -> Presonus Studio USB-C 1824 2x line inputs
-```
-
-3.
-```
-Rode Procast mic w/ pop shield, mic cage and boom -> Roland E-4 Vocal Tweaker -> Presonus Studio USB-C 1824 1x mic input
-```
-
-4.
-```
-t.bone MB 88U mic with pop shield and desktop mic stand -> Balanced patch-bay -> Presonus Studio USB-C 1824 1x mic input
-```
-
-5.
-```
-Kimafun Wireless mic -> Balanced patch-bay -> Presonus Studio USB-C 1824 1x mic input
-```
-
-6.
-```
-Hi-fi Record Player -> Record player pre-amp -> Presonus Studio USB-C 1824 2x line input
-```
-
-##### OUTPUT
-
-1.
-```
-Presonus Studio USB-C 1824 2x main output -> 2x Genelec 8020D Speakers
-```
-
-2.
-```
-Presonus Studio USB-C 1824 1x mono output -> 1x Presonus Eris Speaker acting as a subwoofer (with hardware EQ filtering mid and highs out)
-```
-
-3.
-```
-Presonus Studio USB-C 1824 3-4 headphone output -> Beyerdynamic DT 880 Pro Black Edition Headphones
-```
-
-4.
-```
-Presonus Studio USB-C 1824 3-4 headphone output -> Spare headphone output -> Spare/guest headphones
-```
-
-5.
-```
-Presonus Studio USB-C 1824 2x aux output -> Eurorack Mixer -> 2 BNC cables -> 2 channel inputs of YeaPook ADS1014D Digital Oscilloscope (for plotting waveforms)
-```
-
-6.
-```
-Presonus Studio USB-C 1824 2x aux output -> Eurorack Mixer -> 2 channels for small VU visual volume Level Monitor
-```
-
-7.
-```
-Presonus Studio USB-C 1824 7-8 aux output -> Avantree Oasis Plus Certified aptX HD Bluetooth 5.0 Transmitter and Reciever -> Sony WH-1000XM3 Wireless Noise Cancelling Headphones
-```
-
-
-##### PATCH-BAY
-
-This is the patchbay mapping.
-
-Usually I connect one or two of these patchbay sockets to the input 1 and/or 2 on the front of my audio device for recording and streaming.
-
-1.
-```
-Left HDMI audio output from gaming monitor (used for OSSC and retro console gaming)
-```
-2.
-```
-Right HDMI audio output from gaming monitor (used for OSSC and retro console gaming)
-```
-3.
-```
-R0de Procaster Audio mic with boom via a Roland E-4 Vocal Tweaker
-```
-4.
-```
-tbone MB 88u Audio mic with desktop stand, used for as a secondary mic
-```
-5.
-```
-Kinafun Wireless trasmitter/reciver for Kinafun wireless mic headset
-```
-6.
-```
-Marshall MG15G Guitar Amp for playing my electric guitar
-```
 ### My PC and Console Games
 
 I collect physical and digital games, both modern and retro. You should able to browse through the games I have, both on PC and console, here: [https://wordswords.github.io/media-library-homepage](https://wordswords.github.io/media-library-homepage)
