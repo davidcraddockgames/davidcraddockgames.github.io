@@ -116,6 +116,7 @@ These all work with the gaming PC and laptop and connect via USB:
 * Zip Stick Original Amiga Joystick with Amiga port
 * Speedlink SL-650212-BKRD Competition PRO Joystick - USB Anniversary Edition
 * 'The Scorpion' Retro gaming joystick with Amiga port
+* Quickshot 1987 C64/BBC joystick
 
 #### HOTAS
 
