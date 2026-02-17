@@ -6,6 +6,8 @@ url: /Setup/
 
 ---
 
+![image](flightsticks.jpg)
+
 ### My Main Work/Media/Gaming PC 'studio.local'
 
 - Ryzen 7 9800X 3D CPU
@@ -169,6 +171,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * **SNK Neo Geo International Mini** with 2x official controllers, and mini HDMI to HDMI cable for monitor output (audio output via HDMI)
 * **Nintendo NES Mini** with 2x controllers and extension leads
 * **SNES Mini** with 1x controller
+* **Playstation Mini** with 2x controllers
 * **Sony Playstation Mini** with 2x official controllers
 * **Evercade VS-R Console** with 2x official controllers
 
