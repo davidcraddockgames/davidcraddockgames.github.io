@@ -34,7 +34,7 @@ url: /Setup/
 - 2x Genelec 8020 DPM speakers
 - Logi USB headset with noise cancelling microphone
 - Logitech Key light for web cam calls
-- LogiTech C920 web cam
+- Elegato Facecam
 - R0de Procaster mic with boom, roll cage and muffler
 - Network cabinet with rack-mounted Mikrotik fibreoptic 10Gb/sec router, switch and a Presonus 1824i USB-c sound interface that is connected to the PC.
 
@@ -48,6 +48,7 @@ url: /Setup/
 - Fenge Dual Monitor Stand
 - FIFINE Microphone Arm Stand, Boom Arm Stand with Desk Mount Clamp
 - Quntis Monitor Light bar with RGB Backlight
+- Maksone Under Desk Treadmill
 
 ### My Gaming Laptop 'legion.local'
 
@@ -184,13 +185,13 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * Original **Gameboy** which I use with Tetris.
 * **Ambernic RG35XXSP** handheld emulation device with MuOS firmware running RetroArch with a full set of Neo Geo, SNES, Genesis, Game Gear, Gameboy, Gameboy Advance ROMs.
 * **Evercade Super Pocket Neo Geo Edition Handheld Console**
+* **Evercade Super Pocket Capcom Edition Handheld Console**
 
-### Media PC Software
+### Media PC Software Inventory
 
 * dbPowerAmp CD Ripper (lifetime licence)
 * MakeMKV for ripping CDs and Blu-rays (lifetime licence)
 * AnyDVD HD (lifetime licence) for ripping DVDs and Blu-rays
-* 4K Video Downloader (lifetime licence) for ripping videos from Youtube etc
 * Imagemagik for creating GIFs and command line batch graphics manipulation and conversion
 * FFMPEG for command line batch video manipulation
 * Movavai Video Editor 2022
@@ -217,7 +218,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 
 I collect physical and digital games, both modern and retro. You should able to browse through the games I have, both on PC and console, here: [https://wordswords.github.io/media-library-homepage](https://wordswords.github.io/media-library-homepage)
 
-I also have an install of [ExoDos](https://www.retro-exo.com/exodos.html) and [ExoWin31](https://www.retro-exo.com/win3x.html) on my media PC, which allows me to play any game ever released on DOS and Windows 3.1.
+I also have an install of [ExoDos](https://www.retro-exo.com/exodos.html) and [ExoWin9X](https://www.retro-exo.com/win9x.html) on my media PC, which allows me to play many games from the DOS/early Windows era.
 
 ### Living Room TV Setup
 
