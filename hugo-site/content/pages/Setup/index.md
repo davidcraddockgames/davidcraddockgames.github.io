@@ -6,7 +6,7 @@ url: /Setup/
 
 ---
 
-![image](flightsticks.jpg)
+![image](gamingkallax.jpg)
 
 ### My Main Work/Media/Gaming PC 'studio.local'
 
@@ -128,7 +128,7 @@ I have two Flight Sticks and a throttle. The dual Flight Stick setup is useful f
 * Thrustmaster TWCS Throttle
 * 3x Hikig HOTAS Mount
 
-![image](gamingkallax.jpg)
+![image](flightsticks.jpg)
 
 #### Arcade Setup
 
