@@ -83,9 +83,7 @@ params:
     Title: "DavidCraddock.Games"
 
     Content: >
-      Hi, I'm David. This is the blog where I post about computer and console games, my gaming collection and my gaming setups. I am <a href="https://davidcraddock.net">David Craddock the technologist from Manchester</a>, UK. I am NOT the same person as the much more famous <a href="https://davidcraddockbooks.com">David L. Craddock</a>, although I do enjoy his gaming writing!
-  If you need to contact me at any time, please use: <a href="mailto:3rp2mzocr@mozmail.com">3rp2mzocr@mozmail.com</a>.
-      <img src="https://davidcraddock.games/mugshot.png" alt="A mugshot of me" />
+      Hi, I'm David. This is the blog where I post about computer and console games, my gaming collection and my gaming setups. I am <a href="https://davidcraddock.net">David Craddock the technologist from Manchester</a>, UK. I am NOT the same person as the much more famous <a href="https://davidcraddockbooks.com">David L. Craddock</a>, although I do enjoy his gaming writing! If you need to contact me at any time, please use: <a href="mailto:3rp2mzocr@mozmail.com">3rp2mzocr@mozmail.com</a>. <img src="https://davidcraddock.games/mugshot.png" alt="A mugshot of me" />
 
   socialIcons:
     - name: instagram
