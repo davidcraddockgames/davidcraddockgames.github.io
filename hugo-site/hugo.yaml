@@ -2,6 +2,7 @@ baseURL: "https://davidcraddockgames.github.io/"
 title: DavidCraddock.Games
 copyright: "© David Paul Craddock"
 theme: PaperMod-dpc
+author: David Craddock
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -51,7 +52,6 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "DavidCraddock.Games"
-  author: David Craddock
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: true
