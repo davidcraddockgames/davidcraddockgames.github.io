@@ -128,6 +128,8 @@ I have two Flight Sticks and a throttle. The dual Flight Stick setup is useful f
 * Thrustmaster TWCS Throttle
 * 3x Hikig HOTAS Mount
 
+![image](gamingkallax.jpg)
+
 #### Arcade Setup
 
 This is located on a 'pedestal' in front of the 40" TV. It consists of the 2 Arcade sticks and 2 lightguns and a wireless keyboard and mouse.
