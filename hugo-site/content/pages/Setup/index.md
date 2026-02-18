@@ -178,6 +178,8 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * **Sony Playstation Mini** with 2x official controllers
 * **Evercade VS-R Console** with 2x official controllers
 
+![image](halo.png)
+
 ##### Portable Retro Games Consoles
 
 * **Sony PS Vita OLED 1st Gen** with cracked firmware and a 64GB memory card, allowing it to play any game from the store via Nopaystation.
