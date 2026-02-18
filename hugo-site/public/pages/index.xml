@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pages on DavidCraddock.Games</title>
-    <link>https://davidcraddockgames.github.io/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on DavidCraddock.Games</description>
     <image>
       <title>DavidCraddock.Games</title>
-      <url>https://davidcraddockgames.github.io/mugshot.png</url>
-      <link>https://davidcraddockgames.github.io/mugshot.png</link>
+      <url>http://localhost:1313/mugshot.png</url>
+      <link>http://localhost:1313/mugshot.png</link>
     </image>
     <generator>Hugo -- 0.155.3</generator>
     <language>en</language>
     <copyright>David Paul Craddock</copyright>
     <lastBuildDate>Mon, 26 Jun 2023 19:52:05 +0000</lastBuildDate>
-    <atom:link href="https://davidcraddockgames.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PC and Console Gaming Setup</title>
-      <link>https://davidcraddockgames.github.io/Setup/</link>
+      <link>http://localhost:1313/Setup/</link>
       <pubDate>Mon, 26 Jun 2023 19:52:05 +0000</pubDate>
        <guid isPermaLink="false">https://davidcraddock.games/Setup</guid> 
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;gamingkallax.jpg&#34; alt=&#34;image&#34;  /&gt;
@@ -78,7 +78,7 @@ I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch betw
     </item>
     <item>
       <title>My Home Retro Arcade Setup</title>
-      <link>https://davidcraddockgames.github.io/Arcade/</link>
+      <link>http://localhost:1313/Arcade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
        <guid isPermaLink="false">http://davidcraddock.games/Arcade</guid> 
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;lightguns.jpg&#34; alt=&#34;image&#34;  /&gt;
