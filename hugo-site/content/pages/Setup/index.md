@@ -149,6 +149,9 @@ It is connected via the gaming computer via a 4 port USB 2.0 extender over Cat6 
 * Sinden PC light gun without recoil (Red)
 * 2x iKKEGOL USB Metal Foot Pedal (for duck and cover mechanics with light gun games)
 
+
+![image](lightguns.jpg)
+
 ##### Retro Games Consoles
 
 I have a [Kaico Edition OSSC Open Source Scan Converter 1.6](https://kaicolabs.com/product/kaico-edition-open-source-scan-converter-ossc/), which upscales all my retro consoles to HDMI. I use cables from [https://retrogamingcables.co.uk/](https://retrogamingcables.co.uk/) with the OSSC, which are highly recommended as they make so much difference in terms of audio and video noise. The right cable can also unlock better sound and graphics quality when combined with the OSSC than was ever available before.
