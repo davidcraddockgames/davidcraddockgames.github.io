@@ -82,7 +82,7 @@ I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch betw
 * Action! - Gameplay Recording and Streaming (on Steam) - for recording PC gaming
 * PCMark 10 - for benchmarking hardware upgrades
 
-![image](mechwarrior.jpg)
+![image](mechwarrior.png)
 
 ### My PC Gaming Controllers
 
