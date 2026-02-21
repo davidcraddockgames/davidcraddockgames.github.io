@@ -82,7 +82,7 @@ I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch betw
 * Action! - Gameplay Recording and Streaming (on Steam) - for recording PC gaming
 * PCMark 10 - for benchmarking hardware upgrades
 
-![image](6.PNG)
+![image](4.JPG)
 
 ### My PC Gaming Controllers
 
@@ -122,7 +122,7 @@ These all work with the gaming PC and laptop and connect via USB:
 * 'The Scorpion' Retro gaming joystick with Amiga port
 * Quickshot 1987 C64/BBC joystick
 
-![image](7.PNG)
+![image](3.JPG)
 
 #### HOTAS
 
@@ -198,7 +198,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * **Evercade Super Pocket Neo Geo Edition Handheld Console**
 * **Evercade Super Pocket Capcom Edition Handheld Console**
 
-![image](8.PNG)
+![image](1.JPG)
 
 ### Media PC Software Inventory
 
@@ -227,7 +227,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * Ableton Live 11 Suite DAW
 * Filebot for renaming and organising media files
 
-![image](9.PNG)
+![image](2.JPG)
 
 ### My PC and Console Games
 
