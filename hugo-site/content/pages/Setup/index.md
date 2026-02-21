@@ -82,7 +82,7 @@ I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch betw
 * Action! - Gameplay Recording and Streaming (on Steam) - for recording PC gaming
 * PCMark 10 - for benchmarking hardware upgrades
 
-![image](4.JPG)
+![image](mechwarrior.jpg)
 
 ### My PC Gaming Controllers
 
@@ -122,7 +122,7 @@ These all work with the gaming PC and laptop and connect via USB:
 * 'The Scorpion' Retro gaming joystick with Amiga port
 * Quickshot 1987 C64/BBC joystick
 
-![image](3.JPG)
+![image](consoles.png)
 
 #### HOTAS
 
