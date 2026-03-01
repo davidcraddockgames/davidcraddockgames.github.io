@@ -105,6 +105,7 @@ These all work with the gaming PC and laptop and connect via USB:
 - 2x Retro Fighter Tribute64 2.4ghz wireless controllers for the Nintendo 64. They have an inbuilt rumble pack.
 - 2x 8BitDo Pro 2 Bluetooth controllers for the Playstation 2 and other platforms, with 2x 8BitDo PS/PS2 adaptors.
 - HORI Pacman style Switch Joycon replacement controller.
+- 1x Retro-Bit Origin8 2.4 GHz Wireless Controller For Nintendo Switch & NES
 
 #### VR Hardware
 
