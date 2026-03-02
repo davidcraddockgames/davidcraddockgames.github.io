@@ -36,7 +36,9 @@ url: /Setup/
 - Logitech Key light for web cam calls
 - Elegato Facecam
 - R0de Procaster mic with boom, roll cage and muffler
-- Network cabinet with rack-mounted Mikrotik fibreoptic 10Gb/sec router, switch and a Presonus 1824i USB-c sound interface that is connected to the PC.
+- ClonerAlliance Flint 4KP Plus video capture card with USB-c 3.0L
+- Presonus 1824c Studio Sound Interface
+- Phillips Hue Entertainment centre with 2 light sources and Hue Sync
 
 #### Ergonomic Equipment
 
@@ -58,19 +60,6 @@ url: /Setup/
 - 2x 2TB NVME M.2 4th Gen SSDs
 - Nvidia Laptop 3070TI
 - Cooling Gaming Laptop Pad
-
-### Gaming Setup
-
-I share this setup between the Media PC and the Gaming Laptop.
-I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch between the two.
-
-- Phillips Hue Entertainment centre with 5 light sources and Hue Sync
-- Razer Tarturus Chroma Pro Gaming Keypad
-- Presonus 1824c Studio Sound Interface
-- Beyerdynamic DT 880 Pro Black Edition Headphones
-- 2x Genelec 8020D Music Studio Speakers
-- Presonus Eris Studio Speaker acting as a subwoofer
-- ClonerAlliance Flint 4KP Plus video capture card with USB-c 3.0L
 
 ### Gaming PC Software
 
@@ -106,6 +95,7 @@ These all work with the gaming PC and laptop and connect via USB:
 - 2x 8BitDo Pro 2 Bluetooth controllers for the Playstation 2 and other platforms, with 2x 8BitDo PS/PS2 adaptors.
 - HORI Pacman style Switch Joycon replacement controller.
 - 1x Retro-Bit Origin8 2.4 GHz Wireless Controller For Nintendo Switch & NES
+- Razer Tarturus Chroma Pro Gaming Keypad
 
 #### VR Hardware
 
@@ -121,7 +111,7 @@ These all work with the gaming PC and laptop and connect via USB:
 - Zip Stick Original Amiga Joystick with Amiga port
 - Speedlink SL-650212-BKRD Competition PRO Joystick - USB Anniversary Edition
 - 'The Scorpion' Retro gaming joystick with Amiga port
-- Quickshot 1987 C64/BBC joystick
+- Quickshot 1987 C64/BBC joystick with DIN plug
 
 ![image](consoles.png)
 
@@ -200,6 +190,21 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 
 ![image](1.JPG)
 
+### My PC and Console Games
+
+I collect physical and digital games, both modern and retro. I'm still looking into a way of exposing my physical cart and disk collection on the web properly, but for now you can check out [my PC paid-for games and emulation setup here](https://gamesdb.launchbox-app.com/collection/games?n=wordswords).
+
+I also have an install of [ExoDos](https://www.retro-exo.com/exodos.html) and [ExoWin9X](https://www.retro-exo.com/win9x.html) on my media PC, which allows me to play many games from the DOS/early Windows era.
+
+### Living Room TV Setup
+
+We have a separate minimal setup in our living room which my wife uses heavily. It is minimal because she doesn't like overcomplicated tech stuff :) It consists of:
+
+- Sony BRAVIA 2023 Edition, KD-43X75WL, 43 Inch, LED, Smart TV, 4K HDR, Google TV
+- Logitech 5.1 Z906 Surround Sound System
+
+Because it has Google TV, we can use the Plex app to wirelessly stream 4K videos from my Plex server, and it handles 4K HDR videos well.
+
 ### Media PC Software Inventory
 
 - dbPowerAmp CD Ripper (lifetime licence)
@@ -229,17 +234,4 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 
 ![image](2.JPG)
 
-### My PC and Console Games
-
-I collect physical and digital games, both modern and retro. I'm still looking into a way of exposing my physical cart and disk collection on the web properly, but for now you can check out [my PC paid-for games and emulation setup here](https://gamesdb.launchbox-app.com/collection/games?n=wordswords).
-
-I also have an install of [ExoDos](https://www.retro-exo.com/exodos.html) and [ExoWin9X](https://www.retro-exo.com/win9x.html) on my media PC, which allows me to play many games from the DOS/early Windows era.
-
-### Living Room TV Setup
-
-We have a separate minimal setup in our living room which my wife uses heavily. It is minimal because she doesn't like overcomplicated tech stuff :) It consists of:
-
-- Sony BRAVIA 2023 Edition, KD-43X75WL, 43 Inch, LED, Smart TV, 4K HDR, Google TV
-
-Because it has Google TV, we can use the Plex app to wirelessly stream 4K videos from my Plex server, and it handles 4K videos well, which is not a small feat as the wireless signal is being blasted through a concrete wall :) Netflix and all the other standard services also work well.
 
