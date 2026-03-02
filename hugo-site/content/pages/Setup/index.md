@@ -231,7 +231,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 
 ### My PC and Console Games
 
-I collect physical and digital games, both modern and retro. You should able to browse through the games I have, both on PC and console, here: [https://wordswords.github.io/media-library-homepage](https://wordswords.github.io/media-library-homepage)
+I collect physical and digital games, both modern and retro. I'm still looking into a way of exposing my physical cart and disk collection on the web properly, but for now you can check out [my PC paid-for games and emulation setup here](https://gamesdb.launchbox-app.com/collection/games?n=wordswords).
 
 I also have an install of [ExoDos](https://www.retro-exo.com/exodos.html) and [ExoWin9X](https://www.retro-exo.com/win9x.html) on my media PC, which allows me to play many games from the DOS/early Windows era.
 
