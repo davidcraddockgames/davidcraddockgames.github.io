@@ -174,6 +174,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **SNES Mini** with 1x controller
 - **Sony Playstation Mini** with 2x official controllers
 - **Evercade VS-R Console** with 2x official controllers
+- **SNK Neo Geo CD** console with SD card loader and all available games accessible, with 2x 8BitDo SNK Neo Geo Wireless controllers + adaptors
 
 ![image](halo.png)
 

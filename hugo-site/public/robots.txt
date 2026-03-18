@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://davidcraddockgames.github.io/sitemap.xml
