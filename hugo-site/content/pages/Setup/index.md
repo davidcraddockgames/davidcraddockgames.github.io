@@ -49,8 +49,14 @@ url: /Setup/
 - 360 style balance board
 - Fenge Dual Monitor Stand
 - FIFINE Microphone Arm Stand, Boom Arm Stand with Desk Mount Clamp
-- Quntis Monitor Light bar with RGB Backlight
+- BenQ ScreenBar Halo 2 LED Monitor Light Bar
 - Maksone Under Desk Treadmill
+
+### My CRT
+
+- Sony Trinitron KV-14LT1U 14" RGB Retro Gaming CRT TV
+- External speakers with separate bass, treble and mid
+- [RetroGamingCables.co.uk](https://www.retrogamingcables.co.uk/) SCART switcher and SCART cables.
 
 ### My Gaming Laptop 'legion.local'
 
