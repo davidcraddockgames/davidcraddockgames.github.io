@@ -58,6 +58,18 @@ url: /Setup/
 - External speakers with separate bass, treble and mid
 - [RetroGamingCables.co.uk](https://www.retrogamingcables.co.uk/) SCART switcher and SCART cables.
 
+### My Light GUN / SCART LCD TV
+
+- Sony KDL-40R453C 40-inch Sony Bravia Full HD 1080p LED TV with SCART
+
+#### Light guns and Pedals
+
+- Sinden PC light gun with recoil (Black)
+- Sinden PC light gun without recoil (Red)
+- 2x iKKEGOL USB Metal Foot Pedal (for duck and cover mechanics with light gun games)
+
+![image](lightguns.jpg)
+
 ### My Gaming Laptop 'legion.local'
 
 - Lenovo Legion 5-15IAH 2022
@@ -144,14 +156,6 @@ It is connected via the gaming computer via a 4 port USB 2.0 extender over Cat6 
 - 2x Mayflash Arcade Stick F300 Elites with Sanwa buttons and stick using 8-way restrictor plates
 - Datel Arcade Pro Joystick using 4-way restrictor plate
 
-##### Light guns and Pedals
-
-- Sinden PC light gun with recoil (Black)
-- Sinden PC light gun without recoil (Red)
-- 2x iKKEGOL USB Metal Foot Pedal (for duck and cover mechanics with light gun games)
-
-
-![image](lightguns.jpg)
 
 ##### Retro Games Consoles
 
