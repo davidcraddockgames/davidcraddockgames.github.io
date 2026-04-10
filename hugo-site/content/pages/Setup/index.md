@@ -194,9 +194,9 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **SNES Mini** with 1x controller
 - **Sony Playstation Mini** with 2x official controllers
 - **Evercade VS-R Console** with 2x official controllers
-- **SNK Neo Geo CD** console with SD card loader and all available games accessible, with 2x 8BitDo SNK Neo Geo Wireless controllers + adaptors
-- **PC Engine Duo** console with everdrive and all available games accessible, with 1x offical PC Engine pad, and a Wireless adaptor that can be used with most bluetooth controllers, including >1 player games
-- **PC Engine Mini** console with 2x 8BitDo PC Engine mini pads
+- **SNK Neo Geo CD** console with SD card loader and all available games accessible, with 2x 8BitDo SNK Neo Geo Wireless controllers + adaptors and 2x usb to controller arcade stick adaptors to allow most fight stick/arcade sticks and most PS3/PS4 controllers to be used
+- **PC Engine Duo** console with everdrive and all available games accessible, with 1x offical PC Engine pad, and a 2x Wireless adaptor that can be used with most bluetooth controllers, including >1 player games,
+- **PC Engine TurboGraphix Mini** console with 2x 8BitDo PC Engine mini pads
 - **Evercade Alpha Street Fighter 2 Edition**
 
 ![image](halo.png)
