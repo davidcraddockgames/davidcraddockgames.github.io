@@ -52,15 +52,26 @@ url: /Setup/
 - BenQ ScreenBar Halo 2 LED Monitor Light Bar
 - Maksone Under Desk Treadmill
 
-### My CRT
+### My TVs
+
+#### My CRT
 
 - Sony Trinitron KV-14LT1U 14" RGB Retro Gaming CRT TV
 - External speakers with separate bass, treble and mid
 - [RetroGamingCables.co.uk](https://www.retrogamingcables.co.uk/) SCART switcher and SCART cables.
 
-### My Light GUN / SCART LCD TV
+#### My Light GUN / SCART LCD TV
 
 - Sony KDL-40R453C 40-inch Sony Bravia Full HD 1080p LED TV with SCART
+
+#### Living Room TV Setup
+
+We have a separate minimal setup in our living room which my wife uses heavily. It is minimal because she doesn't like overcomplicated tech stuff :) It consists of:
+
+- Sony BRAVIA 2023 Edition, KD-43X75WL, 43 Inch, LED, Smart TV, 4K HDR, Google TV
+- Logitech 5.1 Z906 Surround Sound System
+
+Because it has Google TV, we can use the Plex app to wirelessly stream 4K videos from my Plex server, and it handles 4K HDR videos well.
 
 #### Light guns and Pedals
 
@@ -156,7 +167,6 @@ It is connected via the gaming computer via a 4 port USB 2.0 extender over Cat6 
 - 2x Mayflash Arcade Stick F300 Elites with Sanwa buttons and stick using 8-way restrictor plates
 - Datel Arcade Pro Joystick using 4-way restrictor plate
 
-
 ##### Retro Games Consoles
 
 I have a [Kaico Edition OSSC Open Source Scan Converter 1.6](https://kaicolabs.com/product/kaico-edition-open-source-scan-converter-ossc/), which upscales all my retro consoles to HDMI. I use cables from [https://retrogamingcables.co.uk/](https://retrogamingcables.co.uk/) with the OSSC, which are highly recommended as they make so much difference in terms of audio and video noise. The right cable can also unlock better sound and graphics quality when combined with the OSSC than was ever available before.
@@ -168,7 +178,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **Super Nintendo** with 2x official controllers and NTSC and J-NTSC cartridge converter and Super Everdrive X5 with ALL ever released SNES games on a MicroSD card.
 - **Sega Megadrive II (region unlocked)** with 2x official 3 button controllers, 2x official 6 button controllers and Master System cartridge converter, and an Mega Everdrive x5 cart with ALL released Megadrive/Genesis games available.
 - **Fat Sony PS2** with 2x official PS2 controllers, and 1 x official PS1 controller, and 2x Guitar Hero PS2 Controllers. I also have a 6TB drive in it with ALL released PS2 NTSC and PAL English games available.
-- **Nintendo 64** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak, and 64 Everdrive cart with ALL released N64 games accessible on a MicroSD card.
+- **Nintendo 64 PAL modded edition for RGB** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak, and 64 Everdrive cart with ALL released N64 games accessible on a MicroSD card.
 - **Sony PS3** with 1x official PS3 controller
 - **Sony PS4** with 2x official PS4 controllers
 - **Nintendo Gamecube** with 2x official Gamecube controllers
@@ -185,6 +195,9 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **Sony Playstation Mini** with 2x official controllers
 - **Evercade VS-R Console** with 2x official controllers
 - **SNK Neo Geo CD** console with SD card loader and all available games accessible, with 2x 8BitDo SNK Neo Geo Wireless controllers + adaptors
+- **PC Engine Duo** console with everdrive and all available games accessible, with 1x offical PC Engine pad, and a Wireless adaptor that can be used with most bluetooth controllers, including >1 player games
+- **PC Engine Mini** console with 2x 8BitDo PC Engine mini pads
+- **Evercade Alpha Street Fighter 2 Edition**
 
 ![image](halo.png)
 
@@ -206,16 +219,6 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 I collect physical and digital games, both modern and retro. I'm still looking into a way of exposing my physical cart and disk collection on the web properly, but for now you can check out [my PC paid-for games and emulation setup here](https://gamesdb.launchbox-app.com/collection/games?n=wordswords).
 
 I also have an install of [ExoDos](https://www.retro-exo.com/exodos.html) and [ExoWin9X](https://www.retro-exo.com/win9x.html) on my media PC, which allows me to play many games from the DOS/early Windows era.
-
-### Living Room TV Setup
-
-We have a separate minimal setup in our living room which my wife uses heavily. It is minimal because she doesn't like overcomplicated tech stuff :) It consists of:
-
-- Sony BRAVIA 2023 Edition, KD-43X75WL, 43 Inch, LED, Smart TV, 4K HDR, Google TV
-- Logitech 5.1 Z906 Surround Sound System
-
-Because it has Google TV, we can use the Plex app to wirelessly stream 4K videos from my Plex server, and it handles 4K HDR videos well.
-
 ### Media PC Software Inventory
 
 - dbPowerAmp CD Ripper (lifetime licence)
