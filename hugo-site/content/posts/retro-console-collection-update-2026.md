@@ -42,7 +42,7 @@ These are consoles I consider 'fully modded' and I don't need to work on them an
 
 ## Consoles I own that I'm probably never going to mod
 
-This is because there are either not many games exclusive to them - so I can just buy those original games. Almost all modern console games get ported to the PC after a while, and my PC gaming setup is almost always the best place to play them.
+This is because there are not many games exclusive to them - so I can just buy those original games. Almost all modern console games get ported to the PC after a while, and my PC gaming setup is almost always the best place to play them.
 
 * Xbox 360
 * Playstation 3
