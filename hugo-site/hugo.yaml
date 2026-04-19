@@ -75,15 +75,9 @@ params:
   comments: true
   pagerSize: 5
   images: ["/mugshot.png"]
-
-  profileMode:
-    enabled: false
-
-    buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
+  social:
+    github: wordswords
+    instagram: djdavidcraddock
 
   homeInfoParams:
     Title: "DavidCraddock.Games"
