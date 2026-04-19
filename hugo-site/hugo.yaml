@@ -5,12 +5,18 @@ theme: PaperMod-dpc
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: true
 buildExpired: true
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
+
+frontmatter:
+  date:
+  - date
+  - :git
+  - :fileModTime
 
 minify:
   disableXML: true
