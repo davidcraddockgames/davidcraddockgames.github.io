@@ -38,9 +38,6 @@ languages:
         - name: PC + Emulation Gamelist
           url: https://gamesdb.launchbox-app.com/collection/games?n=wordswords
           weight: 12
-        - name: Consoles Gamelist
-          url: https://home.davidcraddock.net/#physicalconsolegames
-          weight: 13
         - name: More
           url: https://davidcraddock.net
           weight: 14
