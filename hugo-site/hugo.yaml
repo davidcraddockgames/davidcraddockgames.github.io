@@ -32,9 +32,6 @@ languages:
       series: series
     menu:
       main:
-        - name: Search
-          url: search/
-          weight: 10
         - name: Gaming Setup
           url: Setup/
           weight: 11
