@@ -2,21 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pages on DavidCraddock.Games</title>
-    <link>https://davidcraddockgames.github.io/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on DavidCraddock.Games</description>
     <image>
       <title>DavidCraddock.Games</title>
-      <url>https://davidcraddockgames.github.io/mugshot.png</url>
-      <link>https://davidcraddockgames.github.io/mugshot.png</link>
+      <url>http://localhost:1313/mugshot.png</url>
+      <link>http://localhost:1313/mugshot.png</link>
     </image>
-    <generator>Hugo -- 0.160.1</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
     <copyright>David Paul Craddock</copyright>
-    <lastBuildDate>Mon, 26 Jun 2023 19:52:05 +0000</lastBuildDate>
-    <atom:link href="https://davidcraddockgames.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jul 2026 05:02:35 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Home Retro Arcade Setup</title>
+      <link>http://localhost:1313/Arcade/</link>
+      <pubDate>Sun, 19 Jul 2026 05:02:35 +0100</pubDate>
+       <guid isPermaLink="false">http://davidcraddock.games/Arcade</guid> 
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;lightguns.jpg&#34; alt=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;4.JPG&#34; alt=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always wanted an arcade machine in my home. But I could never really afford one, in terms of time and space. Recently I thought to myself, &amp;ldquo;I&amp;rsquo;m not getting any younger&amp;rdquo;. So I built an arcade setup mostly just using the things I already had in the home.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;1.JPG&#34; alt=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;games&#34;&gt;Games&lt;/h2&gt;
+&lt;p&gt;The ROMs I have are all stored on my file server upstairs. I can get around a 3gbits/sec connection via my 10gbits/sec home network, so there is no performance &amp;lsquo;hit&amp;rsquo; in streaming them off the network drive - it has similar speed and latency to a physical drive. Which is handy, because my ROM collection is way too big for the storage on my gaming PC.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>PC and Console Gaming Setup</title>
-      <link>https://davidcraddockgames.github.io/Setup/</link>
+      <link>http://localhost:1313/Setup/</link>
       <pubDate>Mon, 26 Jun 2023 19:52:05 +0000</pubDate>
        <guid isPermaLink="false">https://davidcraddock.games/Setup</guid> 
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;gamingkallax.jpg&#34; alt=&#34;image&#34;  /&gt;
@@ -79,21 +94,6 @@
 &lt;/ul&gt;
 &lt;h4 id=&#34;living-room-tv-setup&#34;&gt;Living Room TV Setup&lt;/h4&gt;
 &lt;p&gt;We have a separate minimal setup in our living room which my wife uses heavily. It is minimal because she doesn&amp;rsquo;t like overcomplicated tech stuff :) It consists of:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Home Retro Arcade Setup</title>
-      <link>https://davidcraddockgames.github.io/Arcade/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-       <guid isPermaLink="false">http://davidcraddock.games/Arcade</guid> 
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;lightguns.jpg&#34; alt=&#34;image&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;4.JPG&#34; alt=&#34;image&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve always wanted an arcade machine in my home. But I could never really afford one, in terms of time and space. Recently I thought to myself, &amp;ldquo;I&amp;rsquo;m not getting any younger&amp;rdquo;. So I built an arcade setup mostly just using the things I already had in the home.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;1.JPG&#34; alt=&#34;image&#34;  /&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;games&#34;&gt;Games&lt;/h2&gt;
-&lt;p&gt;The ROMs I have are all stored on my file server upstairs. I can get around a 3gbits/sec connection via my 10gbits/sec home network, so there is no performance &amp;lsquo;hit&amp;rsquo; in streaming them off the network drive - it has similar speed and latency to a physical drive. Which is handy, because my ROM collection is way too big for the storage on my gaming PC.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,23 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DavidCraddock.Games</title>
-    <link>https://davidcraddockgames.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on DavidCraddock.Games</description>
     <image>
       <title>DavidCraddock.Games</title>
-      <url>https://davidcraddockgames.github.io/mugshot.png</url>
-      <link>https://davidcraddockgames.github.io/mugshot.png</link>
+      <url>http://localhost:1313/mugshot.png</url>
+      <link>http://localhost:1313/mugshot.png</link>
     </image>
-    <generator>Hugo -- 0.160.1</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
     <copyright>David Paul Craddock</copyright>
-    <lastBuildDate>Sat, 18 Apr 2026 03:35:11 +0100</lastBuildDate>
-    <atom:link href="https://davidcraddockgames.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jul 2026 05:02:35 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Home Retro Arcade Setup</title>
+      <link>http://localhost:1313/Arcade/</link>
+      <pubDate>Sun, 19 Jul 2026 05:02:35 +0100</pubDate>
+       <guid isPermaLink="false">http://davidcraddock.games/Arcade</guid> 
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;lightguns.jpg&#34; alt=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;4.JPG&#34; alt=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always wanted an arcade machine in my home. But I could never really afford one, in terms of time and space. Recently I thought to myself, &amp;ldquo;I&amp;rsquo;m not getting any younger&amp;rdquo;. So I built an arcade setup mostly just using the things I already had in the home.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;1.JPG&#34; alt=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;games&#34;&gt;Games&lt;/h2&gt;
+&lt;p&gt;The ROMs I have are all stored on my file server upstairs. I can get around a 3gbits/sec connection via my 10gbits/sec home network, so there is no performance &amp;lsquo;hit&amp;rsquo; in streaming them off the network drive - it has similar speed and latency to a physical drive. Which is handy, because my ROM collection is way too big for the storage on my gaming PC.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Retro Console Collection Update 2026</title>
-      <link>https://davidcraddockgames.github.io/retro-console-collection-update-2026/</link>
+      <link>http://localhost:1313/retro-console-collection-update-2026/</link>
       <pubDate>Sat, 18 Apr 2026 03:35:11 +0100</pubDate>
-       <guid isPermaLink="false">https://davidcraddockgames.github.io/retro-console-collection-update-2026/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/retro-console-collection-update-2026/</guid> 
       <description>&lt;p&gt;I have just nearly finished moving all of the retro games consoles into the new place from storage.&lt;/p&gt;
 &lt;p&gt;It has been a year since I&amp;rsquo;ve been able to use some of these! Some of them haven&amp;rsquo;t travelled well either, unfortunately, and I need to replace a few.&lt;/p&gt;
 &lt;p&gt;This is the current list of retro consoles (note: not mini consoles, not Evercade.. there will be another post for those):&lt;/p&gt;
@@ -27,23 +42,35 @@
     </item>
     <item>
       <title>Console Soft Modded Collection</title>
-      <link>https://davidcraddockgames.github.io/console-soft-modded-collection/</link>
+      <link>http://localhost:1313/console-soft-modded-collection/</link>
       <pubDate>Mon, 23 Mar 2026 23:18:06 +0000</pubDate>
-       <guid isPermaLink="false">https://davidcraddockgames.github.io/console-soft-modded-collection/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/console-soft-modded-collection/</guid> 
       <description>&lt;h2 id=&#34;introduction-and-philosophy&#34;&gt;Introduction and Philosophy&lt;/h2&gt;
 &lt;p&gt;I have been slowly collecting retro consoles, soft-modding them, making sure I can play all available games on them, and fitting them out with third party low latency wireless controllers and cables and accessories to ensure the best video and audio that they can achieve, while collecting all relevant third party accessories.&lt;/p&gt;
 &lt;p&gt;This is my philosophy now for retro gaming - with a few exceptions, I am no longer collecting any games that I cannot play on these soft-modded consoles. In the future I will be selling my retro game collection, and removing emulation options on my PC, so that I have ONE way to play the games, and that is the best one.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Negative Gamers Annoy Me</title>
-      <link>https://davidcraddockgames.github.io/negative-gamers-annoy-me/</link>
+      <link>http://localhost:1313/negative-gamers-annoy-me/</link>
       <pubDate>Wed, 17 Dec 2025 15:40:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddock.games/negative-gamers-annoy-me</guid> 
       <description>&lt;p&gt;Perhaps I am unusual, but I don&amp;rsquo;t get angry generally about new games that I buy. If I don&amp;rsquo;t like them, I don&amp;rsquo;t just play them. I have tons of games that I don&amp;rsquo;t like. For me, it&amp;rsquo;s the same as buying a book. I do not feel &amp;lsquo;ripped off&amp;rsquo; if I do not enjoy the book, I realise that I am paying for the development of the game and the hundreds (often thousands) of man hours that have gone into playing it. I realise that all art is subjective, and everyone has different &amp;rsquo;takes&amp;rsquo; on things - so I don&amp;rsquo;t try and tell other people what they might or might not enjoy, I just report what I enjoy (and I usually only write reviews for games I really like).&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Xeno Crisis</title>
+      <link>http://localhost:1313/posts/xeno-crisis/</link>
+      <pubDate>Tue, 29 Jul 2025 11:13:34 +0100</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/posts/xeno-crisis/</guid> 
+      <description>&lt;p&gt;I have been playing &lt;a href=&#34;https://en.wikipedia.org/wiki/Xeno_Crisis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xeno Crisis&lt;/a&gt;
+ on my hacked Switch 1.&lt;/p&gt;
+&lt;p&gt;It is a &amp;lsquo;Smash TV&amp;rsquo; style game, which is a retro game based on arena battles where you have to kill all the enemies in the arena before the doors open to other arenas. Smash TV itself was based on one of my favourite 1980s films &amp;lsquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Running Man&lt;/a&gt;
+&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;Xeno Crisis is developed by &lt;a href=&#34;https://www.bitmapbureau.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bitmap Bureau&lt;/a&gt;
+, which is a software house specialising in modern versions of games with retro game themes. It was released on a number of different consoles and platforms, including retro consoles like the Sega Megadrive.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Gaming Collection Philosophy</title>
-      <link>https://davidcraddockgames.github.io/gaming-collection-philosophy/</link>
+      <link>http://localhost:1313/gaming-collection-philosophy/</link>
       <pubDate>Mon, 23 Jun 2025 00:40:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddock.games/?p=5</guid> 
       <description>&lt;p&gt;As I&amp;rsquo;ve accumalated physical games, physical gaming consoles, controllers and computers over the years, it&amp;rsquo;s become more and more important to have some &amp;lsquo;rules&amp;rsquo; of what I collect, how I collect, and how I play the games I collect.&lt;/p&gt;
@@ -52,7 +79,7 @@
     </item>
     <item>
       <title>My Ultimate Yet Affordable Neo Geo Setup</title>
-      <link>https://davidcraddockgames.github.io/neo-geo-setup/</link>
+      <link>http://localhost:1313/neo-geo-setup/</link>
       <pubDate>Fri, 20 Jun 2025 03:15:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddock.games/?p=5666</guid> 
       <description>&lt;p&gt;I want a proper Neo Geo console, but they are ridiculously expensive, even if you buy one and mod it, and don&amp;rsquo;t pay for the cartridges.&lt;/p&gt;
@@ -61,7 +88,7 @@
     </item>
     <item>
       <title>2 player Mad Dog Mccree with Sinden Light Gun on PC</title>
-      <link>https://davidcraddockgames.github.io/mad-dog-mcree-sinden-pc/</link>
+      <link>http://localhost:1313/mad-dog-mcree-sinden-pc/</link>
       <pubDate>Tue, 03 Jun 2025 00:40:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddock.games/?p=7</guid> 
       <description>&lt;p&gt;This is how I got Mad Dog Mccree, the 1990 American Laser Game, working with two Sinden light guns.&lt;/p&gt;
@@ -84,7 +111,7 @@
     </item>
     <item>
       <title>2 player Time Crisis 2 with Sinden Light Gun on PCSX2</title>
-      <link>https://davidcraddockgames.github.io/time-crisis-2-1-player-sinden/</link>
+      <link>http://localhost:1313/time-crisis-2-1-player-sinden/</link>
       <pubDate>Tue, 03 Jun 2025 00:40:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddock.games/?p=6</guid> 
       <description>&lt;p&gt;21/6/25 - IMPORTANT NOTE: The method used in this guide does not currently offer the optimal experience for 2 players - there are problems with the 2 player dual cursor functionality! I therefore do not recommend this guide until I find time to research other methods and update it!&lt;/p&gt;
@@ -92,9 +119,9 @@
     </item>
     <item>
       <title>Epoch Light Gun Game Review</title>
-      <link>https://davidcraddockgames.github.io/epoch-light-gun-game-review/</link>
+      <link>http://localhost:1313/epoch-light-gun-game-review/</link>
       <pubDate>Sun, 06 Apr 2025 16:57:14 +0000</pubDate>
-       <guid isPermaLink="false">https://davidcraddockgames.github.io/epoch-light-gun-game-review/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/epoch-light-gun-game-review/</guid> 
       <description>&lt;p&gt;I setup and played the &lt;a href=&#34;https://store.steampowered.com/app/270510/EPOCH/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Epoch&amp;rsquo; rail-shooter game available on steam&lt;/a&gt;
 , with my Sinden light gun setup.&lt;/p&gt;
 &lt;h2 id=&#34;negatives&#34;&gt;Negatives&lt;/h2&gt;
@@ -103,7 +130,7 @@
     </item>
     <item>
       <title>Batsugun</title>
-      <link>https://davidcraddockgames.github.io/batsugun/</link>
+      <link>http://localhost:1313/batsugun/</link>
       <pubDate>Sat, 14 Dec 2024 03:15:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddock.games/?p=5630</guid> 
       <description>&lt;p&gt;I played through the version of [https://store.steampowered.com/app/2023000/Batsugun/](Batsugun on Steam) on the arcade setup.&lt;/p&gt;
@@ -111,7 +138,7 @@
     </item>
     <item>
       <title>Gunstar Heroes Review</title>
-      <link>https://davidcraddockgames.github.io/gunstar-heroes/</link>
+      <link>http://localhost:1313/gunstar-heroes/</link>
       <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddock.games/gunstar-heroes-pc</guid> 
       <description>&lt;p&gt;For years I have been stuck with a working megadrive with a Gunstar Heroes cartridge that works UP UNTIL A POINT, and then crashes.&lt;/p&gt;
@@ -121,7 +148,7 @@
     </item>
     <item>
       <title>New Gaming Blog</title>
-      <link>https://davidcraddockgames.github.io/new-gaming-blog/</link>
+      <link>http://localhost:1313/new-gaming-blog/</link>
       <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddock.games/?p=1</guid> 
       <description>&lt;p&gt;This is my new gaming blog, where I will write reviews of games I&amp;rsquo;ve played, game accessories I&amp;rsquo;ve bought, and anything else PC or console gaming-related that I can think of.&lt;/p&gt;
@@ -130,7 +157,7 @@
     </item>
     <item>
       <title>PC and Console Gaming Setup</title>
-      <link>https://davidcraddockgames.github.io/Setup/</link>
+      <link>http://localhost:1313/Setup/</link>
       <pubDate>Mon, 26 Jun 2023 19:52:05 +0000</pubDate>
        <guid isPermaLink="false">https://davidcraddock.games/Setup</guid> 
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;gamingkallax.jpg&#34; alt=&#34;image&#34;  /&gt;
@@ -193,21 +220,6 @@
 &lt;/ul&gt;
 &lt;h4 id=&#34;living-room-tv-setup&#34;&gt;Living Room TV Setup&lt;/h4&gt;
 &lt;p&gt;We have a separate minimal setup in our living room which my wife uses heavily. It is minimal because she doesn&amp;rsquo;t like overcomplicated tech stuff :) It consists of:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Home Retro Arcade Setup</title>
-      <link>https://davidcraddockgames.github.io/Arcade/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-       <guid isPermaLink="false">http://davidcraddock.games/Arcade</guid> 
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;lightguns.jpg&#34; alt=&#34;image&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;4.JPG&#34; alt=&#34;image&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve always wanted an arcade machine in my home. But I could never really afford one, in terms of time and space. Recently I thought to myself, &amp;ldquo;I&amp;rsquo;m not getting any younger&amp;rdquo;. So I built an arcade setup mostly just using the things I already had in the home.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;1.JPG&#34; alt=&#34;image&#34;  /&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;games&#34;&gt;Games&lt;/h2&gt;
-&lt;p&gt;The ROMs I have are all stored on my file server upstairs. I can get around a 3gbits/sec connection via my 10gbits/sec home network, so there is no performance &amp;lsquo;hit&amp;rsquo; in streaming them off the network drive - it has similar speed and latency to a physical drive. Which is handy, because my ROM collection is way too big for the storage on my gaming PC.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
