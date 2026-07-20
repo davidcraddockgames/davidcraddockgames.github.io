@@ -6,7 +6,11 @@ url: /Setup/
 
 ---
 
-![image](gamingkallax.jpg)
+{{< figure
+    src="gamingkallax.jpg"
+    alt="A picture of the KALLAX IKEA shelves in my office, where I have a number of computer and console gaming peripherals."
+    caption="Gaming shelves in my office."
+>}}
 
 ### My Main Work/Media/Gaming PC 'studio.local'
 
@@ -79,7 +83,12 @@ Because it has Google TV, we can use the Plex app to wirelessly stream 4K videos
 - Sinden PC light gun without recoil (Red)
 - 2x iKKEGOL USB Metal Foot Pedal (for duck and cover mechanics with light gun games)
 
-![image](lightguns.jpg)
+{{< figure
+    src="lightguns.jpg"
+    alt="A picture from one of our retro-gaming meetups where two gamers are playing a light gun game on a big TV, with both Sinden light guns."
+    caption="The Sinden Lightguns."
+>}}
+
 
 ### My Gaming Laptop 'legion.local'
 
@@ -100,7 +109,11 @@ Because it has Google TV, we can use the Plex app to wirelessly stream 4K videos
 - Action! - Gameplay Recording and Streaming (on Steam) - for recording PC gaming
 - PCMark 10 - for benchmarking hardware upgrades
 
-![image](mechwarrior.png)
+{{< figure
+    src="mechwarrior.png"
+    alt="A picture of me playing the mechwarrior game 'Mechwarrior 5' on the PC with the help of a HOTAS - which considers of a joystick controller and throttle controller."
+    caption="Playing Mechwarrior 5 with HOTAS."
+>}}
 
 ### My PC Gaming Controllers
 
@@ -143,6 +156,12 @@ These all work with the gaming PC and laptop and connect via USB:
 - Quickshot 1987 C64/BBC joystick with DIN plug
 
 ![image](consoles.png)
+{{< figure
+    src="consoles.png"
+    alt="A collection of retro gaming consoles underneath a big screen in my old gaming room."
+    caption="Retro consoles with the OSSC."
+>}}
+
 
 #### HOTAS
 
@@ -152,15 +171,11 @@ I have two Flight Sticks and a throttle. The dual Flight Stick setup is useful f
 - Thrustmaster TWCS Throttle
 - 3x Hikig HOTAS Mount
 
-![image](flightsticks.jpg)
-
-#### Arcade Setup
-
-This is located on a 'pedestal' in front of the 40" TV. It consists of the 2 Arcade sticks and 2 lightguns and a wireless keyboard and mouse.
-
-It is connected via the gaming computer via a 4 port USB 2.0 extender over Cat6 cable, with a 10 meter Cat6 cable, so that I can play arcade games on my pedestal without lots of wires.
-
-- Logitech Wireless keyboard and mouse (third keyboard and mouse used for operating when at the arcade pedestal)
+{{< figure
+    src="flightsticks.jpg"
+    alt="A pair of dual flightsticks aka joystick controllers - in my new office/gaming station."
+    caption="Dual flightsticks in the new office."
+>}}
 
 ##### Arcade Sticks
 
@@ -199,7 +214,12 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **PC Engine TurboGraphix Mini** console with 2x 8BitDo PC Engine mini pads
 - **Evercade Alpha Street Fighter 2 Edition**
 
-![image](halo.png)
+{{< figure
+    src="halo.jpg"
+    alt="The Xbox v1 DUKE controller connected to a PC playing the remastered version of the original XBOX v1 game Halo 1, but on PC."
+    caption="Halo 1 remaster."
+>}}
+
 
 ##### Portable Retro Games Consoles
 
@@ -212,7 +232,6 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **Evercade Super Pocket Neo Geo Edition Handheld Console**
 - **Evercade Super Pocket Capcom Edition Handheld Console**
 
-![image](1.JPG)
 
 ### My PC and Console Games
 
@@ -248,4 +267,9 @@ I also have an install of [ExoDos](https://www.retro-exo.com/exodos.html) and [E
 
 ![image](2.JPG)
 
+{{< figure
+    src="2.JPG"
+    alt="A picture of both the Sinden light guns on top of two arcade fightsticks, on a pedestal next to my home arcade gaming TV."
+    caption="Sinden light guns."
+>}}
 
