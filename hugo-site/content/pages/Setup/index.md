@@ -264,8 +264,6 @@ I also have an install of [ExoDos](https://www.retro-exo.com/exodos.html) and [E
 - Ableton Live 11 Suite DAW
 - Filebot for renaming and organising media files
 
-![image](2.JPG)
-
 {{< figure
     src="2.JPG"
     alt="A picture of both the Sinden light guns on top of two arcade fightsticks, on a pedestal next to my home arcade gaming TV."
