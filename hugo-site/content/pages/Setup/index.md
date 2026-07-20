@@ -155,7 +155,6 @@ These all work with the gaming PC and laptop and connect via USB:
 - 'The Scorpion' Retro gaming joystick with Amiga port
 - Quickshot 1987 C64/BBC joystick with DIN plug
 
-![image](consoles.png)
 {{< figure
     src="consoles.png"
     alt="A collection of retro gaming consoles underneath a big screen in my old gaming room."
