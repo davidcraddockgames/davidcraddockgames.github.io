@@ -214,7 +214,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **Evercade Alpha Street Fighter 2 Edition**
 
 {{< figure
-    src="halo.jpg"
+    src="halo.png"
     alt="The Xbox v1 DUKE controller connected to a PC playing the remastered version of the original XBOX v1 game Halo 1, but on PC."
     caption="Halo 1 remaster."
 >}}
