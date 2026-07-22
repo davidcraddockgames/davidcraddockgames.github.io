@@ -56,6 +56,8 @@ url: /Setup/
 - BenQ ScreenBar Halo 2 LED Monitor Light Bar
 - Maksone Under Desk Treadmill
 
+---
+
 ### My TVs
 
 #### My CRT
@@ -89,6 +91,7 @@ Because it has Google TV, we can use the Plex app to wirelessly stream 4K videos
     caption="The Sinden Lightguns."
 >}}
 
+---
 
 ### My Gaming Laptop 'legion.local'
 
@@ -98,6 +101,8 @@ Because it has Google TV, we can use the Plex app to wirelessly stream 4K videos
 - 2x 2TB NVME M.2 4th Gen SSDs
 - Nvidia Laptop 3070TI
 - Cooling Gaming Laptop Pad
+
+---
 
 ### Gaming PC Software
 
@@ -114,6 +119,8 @@ Because it has Google TV, we can use the Plex app to wirelessly stream 4K videos
     alt="A picture of me playing the mechwarrior game 'Mechwarrior 5' on the PC with the help of a HOTAS - which considers of a joystick controller and throttle controller."
     caption="Playing Mechwarrior 5 with HOTAS."
 >}}
+
+---
 
 ### My PC Gaming Controllers
 
@@ -231,12 +238,16 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **Evercade Super Pocket Neo Geo Edition Handheld Console**
 - **Evercade Super Pocket Capcom Edition Handheld Console**
 
+---
 
 ### My PC and Console Games
 
 I collect physical and digital games, both modern and retro. I'm still looking into a way of exposing my physical cart and disk collection on the web properly, but for now you can check out [my PC paid-for games and emulation setup here](https://gamesdb.launchbox-app.com/collection/games?n=wordswords).
 
 I also have an install of [ExoDos](https://www.retro-exo.com/exodos.html) and [ExoWin9X](https://www.retro-exo.com/win9x.html) on my media PC, which allows me to play many games from the DOS/early Windows era.
+
+---
+
 ### Media PC Software Inventory
 
 - dbPowerAmp CD Ripper (lifetime licence)
