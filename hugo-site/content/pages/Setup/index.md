@@ -188,7 +188,9 @@ I have two Flight Sticks and a throttle. The dual Flight Stick setup is useful f
 - 2x Mayflash Arcade Stick F300 Elites with Sanwa buttons and stick using 8-way restrictor plates
 - Datel Arcade Pro Joystick using 4-way restrictor plate
 
-##### Retro Games Consoles
+---
+
+### Retro Games Consoles
 
 I have a [Kaico Edition OSSC Open Source Scan Converter 1.6](https://kaicolabs.com/product/kaico-edition-open-source-scan-converter-ossc/), which upscales all my retro consoles to HDMI. I use cables from [https://retrogamingcables.co.uk/](https://retrogamingcables.co.uk/) with the OSSC, which are highly recommended as they make so much difference in terms of audio and video noise. The right cable can also unlock better sound and graphics quality when combined with the OSSC than was ever available before.
 
@@ -196,6 +198,7 @@ I also have a [Marsellie MClassic](https://marseilleinc.com/products/buy-mclassi
 
 Currently these are the consoles I have hooked up. They are all 'PAL' unless otherwise specified:
 
+- **Nintendo NES** with two official controllers, SCART lead and Zapper light gun
 - **Super Nintendo** with 2x official controllers and NTSC and J-NTSC cartridge converter and Super Everdrive X5 with ALL ever released SNES games on a MicroSD card.
 - **Sega Megadrive II (region unlocked)** with 2x official 3 button controllers, 2x official 6 button controllers and Master System cartridge converter, and an Mega Everdrive x5 cart with ALL released Megadrive/Genesis games available.
 - **Fat Sony PS2** with 2x official PS2 controllers, and 1 x official PS1 controller, and 2x Guitar Hero PS2 Controllers. I also have a 6TB drive in it with ALL released PS2 NTSC and PAL English games available.
@@ -210,13 +213,18 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **Nintendo Wii U** with CFW Aroma installed and 1x Wii U Gamepad and 1x Wii U Pro Controller
 - **Nintendo Switch Unpatched V1** with CFW installed, 2x Joycons, Dock and 2x Switch Pro Controllers
 - **Microsoft XBox Original** with 2x Duke controllers
+- **SNK Neo Geo CD** console with SD card loader and all available games accessible, with 2x 8BitDo SNK Neo Geo Wireless controllers + adaptors and 2x usb to controller arcade stick adaptors to allow most fight stick/arcade sticks and most PS3/PS4 controllers to be used
+- **PC Engine Duo** console with everdrive and all available games accessible, with 1x offical PC Engine pad, and a 2x Wireless adaptor that can be used with most bluetooth controllers, including >1 player games,
+
+---
+
+#### Mini Consoles and Evercade
+
 - **SNK Neo Geo International Mini** with 2x official controllers, and mini HDMI to HDMI cable for monitor output (audio output via HDMI)
 - **Nintendo NES Mini** with 2x controllers and extension leads
 - **SNES Mini** with 1x controller
 - **Sony Playstation Mini** with 2x official controllers
 - **Evercade VS-R Console** with 2x official controllers
-- **SNK Neo Geo CD** console with SD card loader and all available games accessible, with 2x 8BitDo SNK Neo Geo Wireless controllers + adaptors and 2x usb to controller arcade stick adaptors to allow most fight stick/arcade sticks and most PS3/PS4 controllers to be used
-- **PC Engine Duo** console with everdrive and all available games accessible, with 1x offical PC Engine pad, and a 2x Wireless adaptor that can be used with most bluetooth controllers, including >1 player games,
 - **PC Engine TurboGraphix Mini** console with 2x 8BitDo PC Engine mini pads
 - **Evercade Alpha Street Fighter 2 Edition**
 
@@ -227,7 +235,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 >}}
 
 
-##### Portable Retro Games Consoles
+#### Portable Retro Games Consoles
 
 - **Sony PS Vita OLED 1st Gen** with cracked firmware and a 64GB memory card, allowing it to play any game from the store via Nopaystation.
 - **Sony PSP** which I have cracked, and put a 64GB memory card in it. It has a complete set of SNES and Genesis games, as well as several PS One games which the PSP can emulate. I love playing the game 'Wip3out' on it.
