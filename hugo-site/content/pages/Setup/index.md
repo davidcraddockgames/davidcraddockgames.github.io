@@ -183,7 +183,7 @@ I have two Flight Sticks and a throttle. The dual Flight Stick setup is useful f
     caption="Dual flightsticks in the new office."
 >}}
 
-##### Arcade Sticks
+#### Arcade Sticks
 
 - 2x Mayflash Arcade Stick F300 Elites with Sanwa buttons and stick using 8-way restrictor plates
 - Datel Arcade Pro Joystick using 4-way restrictor plate
