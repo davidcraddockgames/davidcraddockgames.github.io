@@ -214,7 +214,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **Nintendo Switch Unpatched V1** with CFW installed, 2x Joycons, Dock and 2x Switch Pro Controllers
 - **Microsoft XBox Original** with 2x Duke controllers
 - **SNK Neo Geo CD** console with SD card loader and all available games accessible, with 2x 8BitDo SNK Neo Geo Wireless controllers + adaptors and 2x usb to controller arcade stick adaptors to allow most fight stick/arcade sticks and most PS3/PS4 controllers to be used
-- **PC Engine Duo** console with everdrive and all available games accessible for TG16, with 1x official PC Engine pad, and a wireless adaptor that can be used with multiple bluetooth controllers, including >1 player games,
+- **PC Engine Duo** console with everdrive and all available games accessible for TG16, with 1x official PC Engine pad, and a wireless adaptor that can be used with multiple bluetooth controllers, including >1 player games.
 
 ---
 
