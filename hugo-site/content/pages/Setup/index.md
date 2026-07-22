@@ -205,7 +205,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **Nintendo 64 PAL modded edition for RGB** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak, and 64 Everdrive cart with ALL released N64 games accessible on a MicroSD card.
 - **Sony PS3** with 1x official PS3 controller
 - **Sony PS4** with 2x official PS4 controllers
-- **Nintendo Gamecube** with 2x official Gamecube controllers
+- **Nintendo Gamecube** with 4x official Gamecube controllers
 - **XBox 360** with 2x official wired 360 controllers and 360 Kinect
 - **Sega Dreamcast** with 3x official DC controllers, 2x VMUs and 1x third-party memory pack
 - **Sony PSP2000** (TV out)
