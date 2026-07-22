@@ -200,7 +200,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 
 - **Nintendo NES** with two official controllers, SCART lead and Zapper light gun
 - **Super Nintendo** with 2x official controllers and NTSC and J-NTSC cartridge converter and Super Everdrive X5 with ALL ever released SNES games on a MicroSD card.
-- **Sega Megadrive II (region unlocked)** with 2x official 3 button controllers, 2x official 6 button controllers and Master System cartridge converter, and an Mega Everdrive x5 cart with ALL released Megadrive/Genesis games available.
+- **Sega Megadrive II (region unlocked)** with 2x official 3 button controllers, 2x official 6 button controllers and 2x Master system controllers, and an Mega Everdrive x5 cart with ALL released Megadrive/Genesis games AND all Master System games available.
 - **Fat Sony PS2** with 2x official PS2 controllers, and 1 x official PS1 controller, and 2x Guitar Hero PS2 Controllers. I also have a 6TB drive in it with ALL released PS2 NTSC and PAL English games available.
 - **Nintendo 64 PAL modded edition for RGB** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak, and 64 Everdrive cart with ALL released N64 games accessible on a MicroSD card.
 - **Sony PS3** with 1x official PS3 controller
@@ -214,7 +214,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 - **Nintendo Switch Unpatched V1** with CFW installed, 2x Joycons, Dock and 2x Switch Pro Controllers
 - **Microsoft XBox Original** with 2x Duke controllers
 - **SNK Neo Geo CD** console with SD card loader and all available games accessible, with 2x 8BitDo SNK Neo Geo Wireless controllers + adaptors and 2x usb to controller arcade stick adaptors to allow most fight stick/arcade sticks and most PS3/PS4 controllers to be used
-- **PC Engine Duo** console with everdrive and all available games accessible, with 1x offical PC Engine pad, and a 2x Wireless adaptor that can be used with most bluetooth controllers, including >1 player games,
+- **PC Engine Duo** console with everdrive and all available games accessible for TG16, with 1x official PC Engine pad, and a wireless adaptor that can be used with multiple bluetooth controllers, including >1 player games,
 
 ---
 
