@@ -9,8 +9,8 @@ url: /nier-automata
 
 {{< figure
     src="nier.jpg"
-    alt="Picture of my home network cabinet, with the front windowed door open."
-    caption="My home network cabinet."
+    alt="Picture of the main character 2B from Nier Automata."
+    caption="2B from Nier Automata"
 >}}
 
 I have been attempting to play through Square/Enix's [Nier Automata (2017)](https://en.wikipedia.org/wiki/Nier:_Automata).
