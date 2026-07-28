@@ -9,7 +9,7 @@ url: /nier-automata
 ---
 
 {{< figure
-    src="/nier.jpg"
+    src="nier.jpg"
     alt="Picture of the main character 2B from Nier Automata."
     caption="2B from Nier Automata"
 >}}
