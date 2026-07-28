@@ -1,17 +1,14 @@
 ---
-category:
-  - gaming
 date: 2026-07-28T16:47:12+01:00
 guid: http://www.davidcraddock.games/nier-automata
-title: 'Nier Automata'
-image: /nier.jpg
-url: /nier-automata
+title: Nier Automata
+url: /nier-automata/
 ---
 
 {{< figure
     src="nier.jpg"
     alt="Picture of the main character 2B from Nier Automata."
-    caption="2B from Nier Automata"
+    caption="2B from Nier Automata."
 >}}
 
 I have been attempting to play through Square/Enix's [Nier Automata (2017)](https://en.wikipedia.org/wiki/Nier:_Automata).
