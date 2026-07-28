@@ -1,9 +1,9 @@
 ---
 category:
   - gaming
-date = 2026-07-28T16:47:12+01:00
+date: 2026-07-28T16:47:12+01:00
 guid: http://www.davidcraddock.games/nier-automata
-title = 'Nier Automata'
+title: 'Nier Automata'
 url: /nier-automata
 ---
 
