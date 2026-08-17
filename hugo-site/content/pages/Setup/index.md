@@ -62,6 +62,12 @@ url: /Setup/
 
 #### My CRT
 
+{{< figure
+    src="crtbattlestation.jpg"
+    alt="A picture of my cathode ray tube (CRT) TV in my bedroom with PS2, PS3 and Neo Geo CD consoles underneath it in a TV stand."
+    caption="My CRT TV setup."
+>}}
+
 - Sony Trinitron KV-14LT1U 14" RGB Retro Gaming CRT TV
 - External speakers with separate bass, treble and mid
 - [RetroGamingCables.co.uk](https://www.retrogamingcables.co.uk/) SCART switcher and SCART cables.
