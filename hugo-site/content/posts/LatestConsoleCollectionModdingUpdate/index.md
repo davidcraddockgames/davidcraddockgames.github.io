@@ -30,6 +30,7 @@ date: 2026-09-26T13:22:01+01:00
 - Nintendo Gamecube - need to install solderless FlippyDrive
 - XBOX Original - need to install CFW, take it apart and install much bigger HD full of games
 - NES Original - needs Everdrive
+- Neo Geo AES - buying the new version, have paid for it, but delivery date isn't until November 2027
 
 ## Modded Consoles awaiting repair
 
