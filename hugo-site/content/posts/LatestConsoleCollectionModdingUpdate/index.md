@@ -27,6 +27,7 @@ date: 2026-09-26T13:22:01+01:00
 
 ## Consoles awaiting modding
 
+- PS3 - haven't fully explored options, but is easily hackable
 - Nintendo Gamecube - need to install solderless FlippyDrive
 - XBOX Original - need to install CFW, take it apart and install much bigger HD full of games
 - NES Original - needs Everdrive
@@ -67,4 +68,5 @@ date: 2026-09-26T13:22:01+01:00
 - Amiga
 - Retro PC - DOS/Windows 95 etc
 - Sega CD32 and 32x
+- Nintendo Switch 2
 
