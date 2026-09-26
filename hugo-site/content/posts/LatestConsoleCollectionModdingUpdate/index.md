@@ -68,4 +68,5 @@ date: 2026-09-26T13:22:01+01:00
 - Retro PC - DOS/Windows 95 etc
 - Sega CD32 and 32x
 - Nintendo Switch 2
+- PSP4 Pro (might sell PS4 and buy and mod PSP4 Pro for 4K support)
 
