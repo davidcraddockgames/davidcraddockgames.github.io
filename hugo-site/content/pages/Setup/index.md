@@ -204,21 +204,22 @@ I also have a [Marsellie MClassic](https://marseilleinc.com/products/buy-mclassi
 
 Currently these are the consoles I have hooked up. They are all 'PAL' unless otherwise specified:
 
-- **Nintendo NES** with two official controllers, SCART lead and Zapper light gun
-- **Super Nintendo** with 2x official controllers and NTSC and J-NTSC cartridge converter and Super Everdrive X5 with ALL ever released SNES games on a MicroSD card.
 - **Sega Megadrive II (region unlocked)** with 2x official 3 button controllers, 2x official 6 button controllers and 2x Master system controllers, and an Mega Everdrive x5 cart with ALL released Megadrive/Genesis games AND all Master System games available.
+- **Sega Dreamcast** with 3x official DC controllers, 2x VMUs and 1x third-party memory pack
+- **Sony PS1** with XStation and Memcard Pro
 - **Fat Sony PS2** with 2x official PS2 controllers, and 1 x official PS1 controller, and 2x Guitar Hero PS2 Controllers. I also have a 6TB drive in it with ALL released PS2 NTSC and PAL English games available.
-- **Nintendo 64 PAL modded edition for RGB** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak, and 64 Everdrive cart with ALL released N64 games accessible on a MicroSD card.
 - **Sony PS3** with 1x official PS3 controller
 - **Sony PS4** with 2x official PS4 controllers
-- **Nintendo Gamecube** with 4x official Gamecube controllers
-- **XBox 360** with 2x official wired 360 controllers and 360 Kinect
-- **Sega Dreamcast** with 3x official DC controllers, 2x VMUs and 1x third-party memory pack
 - **Sony PSP2000** (TV out)
+- **Nintendo NES** with two official controllers, SCART lead and Zapper light gun
+- **Super Nintendo** with 2x official controllers and NTSC and J-NTSC cartridge converter and Super Everdrive X5 with ALL ever released SNES games on a MicroSD card.
+- **Nintendo 64 PAL modded edition for RGB** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak, and 64 Everdrive cart with ALL released N64 games accessible on a MicroSD card.
+- **Nintendo Gamecube** with 4x official Gamecube controllers
 - **Nintendo Wii (Gamecube compatible version)** with 2x Wiimote Motion controller and official balance board
 - **Nintendo Wii U** with CFW Aroma installed and 1x Wii U Gamepad and 1x Wii U Pro Controller
 - **Nintendo Switch Unpatched V1** with CFW installed, 2x Joycons, Dock and 2x Switch Pro Controllers
 - **Microsoft XBox Original** with 2x Duke controllers
+- **XBox 360** with 2x official wired 360 controllers and 360 Kinect
 - **SNK Neo Geo CD** console with SD card loader and all available games accessible, with 2x 8BitDo SNK Neo Geo Wireless controllers + adaptors and 2x usb to controller arcade stick adaptors to allow most fight stick/arcade sticks and most PS3/PS4 controllers to be used
 - **PC Engine Duo** console with everdrive and all available games accessible for TG16, with 1x official PC Engine pad, and a wireless adaptor that can be used with multiple bluetooth controllers, including >1 player games.
 
