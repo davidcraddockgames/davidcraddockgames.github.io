@@ -43,24 +43,25 @@ date: 2026-09-26T13:22:01+01:00
 - Original Gameboy
 - Gameboy Advance SP
 
-## Consoles/systems left to purchase
+## Consoles/systems left to purchase and mod
 
 - Sega Saturn
 
 ## Systems NEVER going to be bought/modded
 
-Xbox 360 - will just use emulation.. modding is not worth it
-All arcade systems - will just use MAME/light guns/arcade sticks
-All consoles without exclusives available on other systems or going to be made available.. for example Xbox One, PS5 - will just use PC releases when they come available
+- Xbox 360 - will just use emulation.. modding is not worth it
+- All arcade systems - will just use MAME/light guns/arcade sticks
+- All consoles without exclusives available on other systems or going to be made available.. for example Xbox One, PS5 - will just use PC releases when they come available
 
-## Systems I'm not sure about whether I'm going to bother purchasing/modding
+## Systems I'm not sure yet about whether I'm going to bother purchasing/modding
 
-Atari Lynx
-Sega Gamegear
-Atari 2600
-BBC Master System
-Spectrum
-Commodore
-Amiga
-Retro PC - DOS/Windows 95 etc
+- Atari Lynx
+- Sega Gamegear
+- Atari 2600
+- BBC Master System
+- Spectrum
+- Commodore
+- Amiga
+- Retro PC - DOS/Windows 95 etc
+- Sega CD32 and 32x
 
