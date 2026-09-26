@@ -23,6 +23,7 @@ date: 2026-09-26T13:22:01+01:00
 - Nintendo Wii U - CFW installed - full games collection available on external hard drive
 - TG16 - Full TG16 game collection available on SD card on PC Engine Duo via Everdrive
 - PSP Vita - Full game collection available via NoPaystation remote download
+- Nintendo DSi XL - Full DS and DSi game collection available on SD card
 
 ## Consoles awaiting modding
 
@@ -55,6 +56,7 @@ date: 2026-09-26T13:22:01+01:00
 
 ## Systems I'm not sure yet about whether I'm going to bother purchasing/modding
 
+- Nintendo 3DS
 - Atari Lynx
 - Sega Gamegear
 - Atari 2600
