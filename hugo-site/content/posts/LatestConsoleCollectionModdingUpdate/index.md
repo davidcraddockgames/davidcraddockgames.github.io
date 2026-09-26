@@ -10,6 +10,10 @@ date: 2026-09-26T13:22:01+01:00
     caption="Current console setup."
 >}}
 
+## Goal
+
+"The idea is to have the ability to play more or less any game ever released, usually on the original hardware with the original peripherals."
+
 ## Current modded consoles
 
 - PS1 - XStation hard mod and Memcard - can load any PS1 game onto the SD card although it doesn't have space for all games at once
