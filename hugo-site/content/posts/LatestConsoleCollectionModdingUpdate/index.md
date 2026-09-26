@@ -25,23 +25,21 @@ date: 2026-09-26T13:22:01+01:00
 - PSP Vita - Full game collection available via NoPaystation remote download
 - Nintendo DSi XL - Full DS and DSi game collection available on SD card
 
-## Consoles awaiting modding
+## Consoles awaiting modding SOON
 
 - PS3 - haven't fully explored options, but is easily hackable
 - Nintendo Gamecube - need to install solderless FlippyDrive
 - XBOX Original - need to install CFW, take it apart and install much bigger HD full of games
 - NES Original - needs Everdrive
-- Neo Geo AES - buying the new version, have paid for it, but delivery date isn't until November 2027
 
 ## Modded Consoles awaiting repair
 
 - PSP - need to fix screen issue..
 - PC Engine Duo - need to enable access to all PCFX games via the existing Everdrive or a new one, and enable bluetooth controller adaptor
 
-## Consoles left to mod
+## Consoles I own but are left to mod in the future
 
 - Wii
-- Sega Saturn
 - Sega Dreamcast
 - Original Gameboy
 - Gameboy Advance SP
@@ -49,6 +47,7 @@ date: 2026-09-26T13:22:01+01:00
 ## Consoles/systems left to purchase and mod
 
 - Sega Saturn
+- Neo Geo AES - buying the new version, have paid for it, but delivery date isn't until November 2027
 
 ## Systems NEVER going to be bought/modded
 
